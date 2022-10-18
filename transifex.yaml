@@ -1,6 +1,3 @@
 en:
-    key1: value1
-    # This is a comment for key2.
-    key2: value2
-    # non translatable integer value
-    key3: 123
+  key1: value1 translation
+  key2: value2 translation
