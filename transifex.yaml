@@ -1,3 +1,6 @@
-en:
-  key1: value1 translation
-  key2: value2 translation
+filters:
+  - filter_type: file
+    file_format: YML
+    source_language: en
+    source_file: none
+    translation_files_expression: none
