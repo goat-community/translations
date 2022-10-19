@@ -1,0 +1,18 @@
+{
+  "selectGeoportal": "Wähle Geoportal",
+  "externalGeoportal": "Externes Geoportal",
+  "builtInGeoportals": {
+    "title": "Vordefinierte Geoportale"
+  },
+  "ownGeoportals": {
+    "title": "Füge eigenes Geoportal hinzu",
+    "getLayersFrom": "Importiere Layer von",
+    "results": "Ergebnisse",
+    "seeMore": "mehr..."
+  },
+  "popups": {
+    "info": "Es wurde eine Fehler bei dem externen Service festgestellt, der das Geoportal betreibt. Bitte wählen Sie einen anderen Layer.",
+    "errorMessage": "Dieser Layer ist nicht teil Ihres Untersuchungsgebietes. Bitte wählen Sie einen anderen Layer.",
+    "agreement": "Ich verstehe"    
+  }
+}
