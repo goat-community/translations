@@ -1,0 +1,130 @@
+{
+    "title": "Isochronen",
+    "calculation": "Berechnung",
+    "calculationTitle": "Isochronenberechnung",
+    "stopIsochroneCalc": "Berechnung stoppen",
+    "mode": {
+      "default": "Standard",
+      "input": "Eingabe",
+      "scenario": "Szenario"
+    },
+    "single": {
+      "singleIsochrone": "Isochrone Single",
+      "title": "Startpunkt",
+      "type": "Single",
+      "searchBox": "Startpunkt suchen",
+      "startTooltip": "Klicke auf den Button, um die Isochronenberechnung zu starten",
+      "ppfTooltip": "Klicke auf den Button, um die PPF-Berechnung zu starten",
+      "tableDataTitle": "Thematische Daten"
+    },
+    "multiple": {
+      "title": "Anfang",
+      "type": "Multi",
+      "selectMethod": "Methode auswählen",
+      "studyArea": "Ortsteil",
+      "clear": "Löschen",
+      "calculate": "Berechnen",
+      "studyAreaInfoLabel": "Wählen Sie <b> Orte </b> auf der Karte aus und <b> Ziele </b> im Filter Thematische Daten aus, um die Berechnung zu ermöglichen.",
+      "drawPolygon": "Grenze zeichnen",
+      "amenityCount": "Anzahl Einrichtungen",
+      "limit": "Grenze",
+      "drawPolygonInfoLabel": "Zeichnen Sie eine <b> Grenze</b> auf der Karte ein und wählen Sie <b> Ziele </b> im Filter Thematische Daten aus aus, um die Berechnung zu ermöglichen.",
+      "tableDataTitle": "Daten Multi-Isochrone"
+    },
+    "options": {
+      "title": "Optionen",
+      "subOptions": "Einstellungen Isochronen",
+      "speed": "Geschwindigkeit",
+      "time": "Reisezeit",
+      "nr": "Isochronen",
+      "from_time": "Von Zeit",
+      "access_mode": "Zugangsmodus",
+      "egress_mode": "Ausgangsmodus",
+      "to_time": "Bis Zeit",
+      "calcType": "etaillierungsgrad Isochronen",
+      "calcModus": "Berechnungsmodus",
+      "alphaShapeMode": "Detaillierungsgrad Isochronen",
+      "default": "Default",
+      "scenario": "Szenario",
+      "comparison": "Vergleich",
+      "routingProfile": "Routing Profil",
+      "routing": "Routing",
+      "walking_standard": "Standard",
+      "walking_elderly": "Senior",
+      "walking_safe_night": "Safe night",
+      "walking_wheelchair": "Rollstuhl",
+      "walking_wheelchair_standard": "Standard",
+      "walking_wheelchair_electric": "Elektrisch",
+      "cycling_standard": "Standard",
+      "cycling_pedelec": "Pedelec",
+      "transitModes": "ÖPNV Verkehrsmittel",
+      "transit": "ÖPNV",
+      "walk": "Fuß",
+      "bicycle": "Fahrrad",
+      "car": "Auto",
+      "car_park": "Parkplatz"
+    },
+    "results": {
+      "title": "Ergebnisse",
+      "multiIsochroneHeader": "Multi-Isochrone-Berechnung",
+      "additionalLayers": "Weitere Layer",
+      "showDataTooltip": "Daten anzeigen",
+      "hideDataTooltip": "Hide Data",
+      "toggleVisibilityTooltip": "Anzeige umschalten",
+      "showResultsTooltip": "Ergebnisse anzeigen",
+      "hideResultsTooltip": "Ergebnisse ausblenden",
+      "downloadTooltip": "Herunterladen",
+      "deleteCalcTooltip": "Berechnung löschen",
+      "deleteAll": "Alle löschen",
+      "changeColorTooltip": "Farbe ändern",
+      "dataTable": "Tabelle",
+      "roadNetwork": "Netzwerk",
+      "table": {
+        "type": "Art",
+        "range": "Zeit",
+        "area": "Größe",
+        "visible": "Anzeige",
+        "population": "Einwohner",
+        "legend": "Legende"
+      },
+      "colorMessage": "Lowest: <b>0 min</b>, Highest: <b>20 min</b>"
+    },
+    "tableData": {
+      "timeFilter": "Filter Reisezeit",
+      "searchPois": "Ziele suchen",
+      "selectTimeMsg": "Zeit zum Filtern auswählen",
+      "noDataMsg": "Keine Daten für ausgewählte Zeit",
+      "selectAmenitiesMsg": "Wählen Sie <b> Ziele (Thematische Daten)</b> und die <b> Reisezeit </b> aus, um die Tabelle zu filtern.",
+      "table": {
+        "pois": "Ziele",
+        "isochrone": "Isochrone",
+        "studyArea": "Ort",
+        "population": "Bevölkerung",
+        "reachedPopulation": "Erreichbare Bevölkerung",
+        "shared": "Anteil"
+      },
+      "travelTime": "Reisezeit (minuten)",
+      "amenityCount": "Amenity Count",
+      "populationCount": "Bevölkerungszahl",
+      "aoisArea": "AOIs Area"
+    },
+    "isochrones": "Isochronen",
+    "deleteTitle": "Löschen",
+    "deleteMessage": "Soll Berechnung wirklich gelöscht werden?",
+    "deleteAllMessage": "Soll die alle Berechnungen wirklich gelöscht werden?",
+    "download": {
+      "title": "Isochronen herunterladen",
+      "fileName": "Dateiname",
+      "outputFormat": "Ausgabeformat auswählen",
+      "download": "Herunterladen"
+    },
+    "additionalLayers": {
+      "defaultNetwork": "Standard Straßennetzwerk",
+      "inputNetwork": "Modifiziertes Straßennetzwerk",
+      "studyArea": "Ausgewähltes Gebiet",
+      "startingPoints": "Startpunkte"
+    },
+    "pickColor": {
+      "title": "Farbe der Isochrone"
+    }
+  }
