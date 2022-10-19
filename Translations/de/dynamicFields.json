@@ -1,0 +1,47 @@
+{
+    "attributes": {
+      "way": {
+        "way_type": "Wegetyp",
+        "surface": "Oberfläche",
+        "wheelchair": "Rollstuhl"
+      },
+      "poi": {
+        "category": "Einrichtung",
+        "name": "Name",
+        "opening_hours": "Öffnungszeiten (Optional)"
+      },
+      "building": {
+        "building": "Gebäude",
+        "building_type": "Gebäudetyp",
+        "building_levels": "Anzahl Geschosse",
+        "building_levels_residential": "Anzahl Geschosse Wohnen",
+        "population": "Einwohneranzahl (optional)",
+        "gross_floor_area": "Geschossfläche (optional)",
+        "labels": {
+          "area": "Fläche",
+          "building_levels": "Anzahl Geschosse",
+          "gross_floor_area": "Geschossfläche",
+          "population": "Einwohner"
+        }
+      }
+    },
+    "listValues": {
+      "way": {
+        "road": "Straße",
+        "bridge": "Brücke",
+        "asphalt": "Asphalt",
+        "cobblestone": "Pflastersteine",
+        "fine_gravel": "Feiner Kies",
+        "gravel": "Kies",
+        "grass": "Grass",
+        "unpaved": "Unbefestigt",
+        "yes": "Ja",
+        "no": "Nein"
+      },
+      "building": {
+        "residential": "Wohnen",
+        "commercial": "Gewerbe",
+        "public": "Öffentliche Einrichtung"
+      }
+    }
+  }
