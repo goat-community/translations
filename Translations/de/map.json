@@ -1,0 +1,321 @@
+{
+    "layerLegend": {
+      "title": "Legende Layer"
+    },
+    "snackbarMessages": {
+      "selectAmenities": "Mind. ein Point-of-Interest (Thematische Daten) auswählen",
+      "selectAois": "Mind. ein Area-of-Interest (Thematische Daten) auswählen",
+      "calculateIsochroneError": "Hier ist leider keine Berechnung möglich.",
+      "calculateIsochroneCancelled": "Isochronenberechnung abgebrochen",
+      "calculatePPFCancelled": "PPF-Berechnung abgebrochen",
+      "uploadScenarioSuccess": "Objekte wurden erfolgreich hochgeladen.",
+      "uploadScenarioError": "Leider ist beim Hochladen der Objekte in die Datenbank ein Fehler aufgetreten.",
+      "notAllScnearioFeaturesUploaded": "Bei der Berechnung der Szenarien-Isochrone werden nur hochgeladene Objekte berücksichtigt.",
+      "cantDeleteAllScenarioFeatures": "Die Szenarien-Daten können aktuell leider nicht gelöscht werden.",
+      "allScenarioFeaturesDelete": "Alle Szenarien-Daten wurden gelöscht",
+      "scenarioDeleted": "Szcenarien wurden gelöscht",
+      "cantDeleteScenario": "Die Szenarien können aktuell leider nicht gelöscht werden.",
+      "noScenarioFeatureChangeAvailable": "Ändern Sie zuerst das Netzwerk oder die Landnutzung.",
+      "cantPrintBaseLayer": "Diese Basiskarte kann nicht gedruckt werden.",
+      "featuresAlreadyUploaded": "Objekt ist bereits vorhanden",
+      "cantExportScenario": "Ein Fehler ist aufgetreten. Szenario kann nicht exportiert werden!",
+      "zoomInToShowFeatures": "Zoome um Objekte der folgenden Layer zu sehen",
+      "calculationCancelled": "Berechnung abgebrochen!",
+      "scenarioEditMode": "Bearbeitungsmodus"
+    },
+    "layerGroup": {
+      "buildings_landuse": "Gebäude und Flächennutzung",
+      "streetlevelqualityLayers": "Street Level Quality",
+      "environmental_quality": "Umweltdaten",
+      "additional_data": "Weitere Daten",
+      "publicTransportation": "Öffentliche Verkehrsmittel",
+      "external_layers": "Externe Layer",
+      "accessbilityBasemaps": "Heatmaps",
+      "basemap": "Hintergrundkarten",
+      "heatmap": "Heatmaps"
+    },
+    "layerName": {
+      "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
+      "freiburg_mietspiegel": "Freiburg Mietspiegel",
+      "freiburg_laerm_strasse_nacht": "Lärm Hauptstraßen (Nacht)",
+      "freiburg_laerm_strasse_tag": "Lärm Hauptstraßen (Tag)",
+      "freiburg_grundschulbezirke": "Grundschulbezirke",
+      "freiburg_flaechennutzungsplan": "Flächennutzungsplan",
+      "freiburg_streetmap": "Freiburg Straßenkarte",
+      "freiburg_heatmap_radverkehr": "Heatmap Radverkehr",
+      "bayern_biotop_kartierung": "Bayern Biotop Kartierung",
+      "bayern_laerm_ballungszentren_strassen_tag": "Lärm Hauptverkehrsstraßen (Tag)",
+      "bayern_laerm_ballungszentren_strassen_nacht": "Lärm Hauptverkehrsstraßen (Nacht)",
+      "bayern_oekoflaechenkataster": "Bayern Ökoflaechenkataster",
+      "bayern_schutzgebiete_naturschutz": "Bayern Schutzgebiete Naturschutz",
+      "poi": "Point of Interest",
+      "aois": "Area of Interes",
+      "way": "Wege",
+      "pois_aois_layer": "Point of Interest",
+      "sub_study_area": "Untersuchungsgebiete",
+      "administrativeUnits": "Verwaltungseinheit",
+      "accidents_pedestrians": "Fußgänger - Unfallpunkte (2016-2010)",
+      "accidents_cyclists": "Radfahrer - Unfallpunkte (2016-2020)",
+      "bicycle_counting_stations": "Raddauerzählstellen (2019)",
+      "biotops": "Biotope",
+      "ffh-area": "FFH-Gebiete",
+      "natureReserves": "Naturschutzgebiete",
+      "noiseMainTrafficRoads": "ärm von Hauptverkehrsstraßen",
+      "waterProtectionArea": "Trinkwasserschutzgebiete",
+      "floodingAreasHQ100": "Hochwassergefahrenflächen HQ100",
+      "dikes": "Deiche",
+      "protectedLandscape": "Landschaftsschutzgebiete",
+      "landuse_atkis": "Flächennutzung (ATKIS)",
+      "landuse_osm": "Flächennutzung (OSM)",
+      "zoningPlan": "Flächennutzungsplan (FNP)",
+      "footpath_width": "Fußwegbreite",
+      "ways_lit": "Beleuchtung",
+      "ways_lanes": "Anzahl der Fahrspuren",
+      "modeshare": "Modal Split",
+      "noiseAircraftLDEN": "Fluglärm - Pegelraster LDEN",
+      "noiseAircraftLNight": "Fluglärm - Pegelraster LNight",
+      "noiseProtectionBauleitplanung": "Lärmschutzbereich zur Lenkung der Bauleitplanung",
+      "ways_parking": "Parkplätze am Straßenrand",
+      "ways_smoothness": "Qualität Oberfläche",
+      "ways_speed": "Geschwindigkeitsbegrenzungen",
+      "ways_category": "Straßenkategorien - detailliert",
+      "ways_category_aggregated": "Straßenkategorien",
+      "street_crossings": "Querungsmöglichkeiten",
+      "street_furniture": "Straßenmöbelierung",
+      "street_furniture_bicycles": "Fahrradständer",
+      "munichways": "Radwegequalität (Munichways)",
+      "ways_surface": "Oberfläche",
+      "ways_wheelchair": "Barrierefreiheit",
+      "footpath_visualization": "Walkability Index (Attraktivität der Fußwege)",
+      "ways_green_blue_index": "Nähe zu Vegetation & Gewässer",
+      "ways_liveliness": "Gehumgebung & Belebtheit",
+      "ways_urban_equipment": "Urbane Austattung",
+      "ways_traffic_protection": "Schutz vor Verkehrsstörungen",
+      "ways_security": "Beleuchtung / empfundene Sicherheit",
+      "ways_sidewalk_quality": "Gehkomfort",
+      "primary_school_streams": "Fußgängerpotentialströme zu Grundschulen",
+      "studyArea": "Untersuchungsgebiet",
+      "ways": "Wege",
+      "building": "Gebäude",
+      "osm_standard": "OSM Standard",
+      "osm_light": "OSM Light",
+      "osm_dark": "OSM Dark",
+      "open_topo_map": "Open Topo Map",
+      "mapbox_streets": "Mapbox",
+      "transit": "Öffentlicher Verkehr",
+      "bing_aerial": "Bing Aerial",
+      "walking_trip_rate": "Zu Fuß zurückgelegte Wege pro Person",
+      "walkingShare": "Anteil der zu Fuß zurückgelegten Wege",
+      "cyclingShare": "Anteil der mit dem Fahrrad zurückgelegten Wege",
+      "bicycle_rate": "Fahrrad Besitz",
+      "motorization_rate": "Besitz motorisierter Fahrzeuge",
+      "population_strata": "Einwohner pro Gebiet",
+      "transmilenioShare": "Anteil der mit dem Transmilenio zurückgelegten Wege",
+      "sitpShare": "Anteil der mit dem SITP zurückgelegten Wege",
+      "cycling_trips_rate": "Mit dem Rad zurückgelegte Wege pro Person",
+      "pt_trips_rate": "Mit dem ÖV zurückgelegte Wege pro Person",
+      "strata": "sozio-ökonomische Schichten",
+      "indicators": "Indikatoren",
+      "study_area_crop": "Untersuchungsgebiet",
+      "study_area": "Grenzen",
+      "ways_Project_Sidewalk": "Project Sidewalk Score",
+      "heatmap_connectivity": "Konnektivität",
+      "heatmap_local_accessibility": "Lokale Erreichbarkeit",
+      "heatmap_accessibility_population": "Vergleich von Erreichbarkeit und Bevölkerungsdichte",
+      "heatmap_population": "Bevölkerungsdichte",
+      "pt_station_count": "Durchschnittliche Anzahl Abfahrten Öffentlicher Verkehr (pro Stunde)",
+      "pt_oev_gueteklasse": "ÖV Güteklassen",
+      "public_transport": "Öffentlicher Verkehr"
+    },
+    "tooltips": {
+      "clickForIsochroneCalculation": "Für Berechnung klicken",
+      "clickForPPFCalculation": "Für PPF Berechnung klicken",
+      "clickToSelectStudyArea": "Klicken für Auswahl des Untersuchungsbereichs",
+      "maxCircleRadius": "Maximaler Kreisradius ist 1000m",
+      "clickToStartMeasure": "Klicken, um Messung zu starten",
+      "clickToStartDrawing": "Klicken, um Zeichnen zu starten",
+      "clickToContinueDrawing": "Klicken, um mit Zeichnen fortzufahren",
+      "clickToFinishDrawing": "Klicken, um Zeichnen zu beenden",
+      "clickToStartDrawingBoundary": "Klicken, um Begrenzungsrechteck zu zeichnen",
+      "clickToStartDrawingCircle": "Klicken, um Kreis zu zeichnen (max. Radius 1000m)",
+      "clickToStartDrawingPolygon": "Klicken, um Polygon zu zeichnen",
+      "clickToFinishDrawingPolygon": "Doppel(klick) auf Startpunkt, um Vorgang zu beenden",
+      "clickOnFeatureToDelete": "Auf das Objekt klicken, um es zu löschen",
+      "clickOnFeatureToMove": "Auf das Objekt klicken, um es zu bewegen",
+      "drawHoleOnPolygon": "Zeichnen Sie über das Polygon, um ein Loch zu erstellen",
+      "drawHoleOnPolygonNotAllowed": "Zeichnen Sie ein Loch über ein neu gezeichnetes Gebäude",
+      "clickAndDragToModify": "Objekt anklicken und ziehen, um es zu verändern",
+      "clickToModifyAttributes": "Klicken Sie hier, um Attribute zu ändern",
+      "clickToRemove": "Zum Entfernen klicken",
+      "clickToPlacePoint": "Klicken, um den Punkt zu platzieren",
+      "changeDefaultColorPalette": "Farbe ändern (Standard)",
+      "changeScenarioColorPalette": "Farbe ändern (Szenario)",
+      "clickToBldEntrance": "Auf das Gebäude klicken, um Eingang hinzuzufügen <br>Klicken und ziehen, um das Gebäude zu modifizieren <br>Rechtsklick, um das Objekt zu löschen",
+      "clickToBldEntranceNotAllowed": "Hier kann kein Eingang hinzugefügt werden. Klicken Sie auf ein neu hinzugefügtes Gebäude.",
+      "moveExistingBuildingNotAllowed": "Klicken Sie auf ein neu hinzugefügtes Gebäude, um dieses zu verschieben.",
+      "modifyExistingBuildingNotAllowed": "Klicken Sie auf ein neu hinzugefügtes Gebäude, um dieses zu modifizieren.",
+      "openDocumentation": "Dokumentation öffnen",
+      "routingProfiles": {
+        "walking": {
+          "title": "Fußgänger",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Standard Routing"
+            },
+            "elderly": {
+              "title": "Senior",
+              "tooltip": "Routing mit reduzierter Gehgeschwindigkeit"
+            },
+            "safe_night": {
+              "title": "Safe night",
+              "tooltip": "Routing nur entlang beleuchteter Wege"
+            }
+          }
+        },
+        "cycling": {
+          "title": "Radfahrer",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Standard Routing"
+            },
+            "pedelec": {
+              "title": "Pedelec",
+              "tooltip": "Pedelec"
+            }
+          }
+        },
+        "walking_wheelchair": {
+          "title": "Routing berücksichtigt nur barrierefreie Wege und Ziele",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Standard Routing"
+            },
+            "electric": {
+              "title": "Electric",
+              "tooltip": "Elektrisch"
+            }
+          }
+        }
+      },
+      "zoomToFeature": "Zum Objekt zoomen",
+      "deleteFeature": "Objekt löschen",
+      "uploadFeature": "Objekt hochladen",
+      "restoreFeature": "Objekt zurücksetzen",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "openFullScreen": "Vollbildmodus öffnen",
+      "search": "Suche",
+      "measure": "Messen",
+      "exitFullScreen": "Vollbildmodus schließen",
+      "toggleStreetView": "Mapillary",
+      "notAvailable": "Nicht verfügbar"
+    },
+    "popup": {
+      "attributes": "Attribute",
+      "info": "Info",
+      "editWithOsm": "In OSM bearbeiten",
+      "confirm": "Bestätigen",
+      "modifyAttributes": "Attribute ändern"
+    },
+    "layerListValues": {
+      "road": "Straße",
+      "bridge": "Brücke"
+    },
+    "contextMenu": {
+      "deleteIsochrone": "Isochrone löschen",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "deleteBldEntrancePoint": "Delete Population",
+      "deletePPFNetwork": "Delete",
+      "redoCalculation": "Erneut berechnen"
+    },
+    "osmMode": {
+      "tasks": "OSM Mapping Aufgaben",
+      "steps": "Schritte",
+      "info": "Info",
+      "stepsDesc": {
+        "clickFeatureInMap": "Wählen Sie ein Objekt aus der Karte.",
+        "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+        "fillInOSMiD": "Fügen Sie den fehlenden {missingVar} im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Um die fehlenden Informationen zu erlangen können z.B. Mapillary-Aufnahmen verwendet werden."
+      },
+      "note": "Hinweis: der {layerNameVar} Layer wird alle 10 Minuten aktualisiert",
+      "shortDesc": "Vervollständigung der fehlenden {missingVar}",
+      "longDesc": "Check out {layerNameVar} for missing {missingVar}.",
+      "layers": {
+        "mapping_pois_opening_hours": {
+          "missingKeyWord": "Öffnungszeiten",
+          "layerName": "POIs",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die Icons in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie das fehlende Attribut 'opening_hours' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. von der Webseite der Einrichtung oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-ways-speed": {
+          "missingKeyWord": "Höchstgeschwindigkeiten",
+          "layerName": "Wege",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Linien in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie das fehlende Attribut 'maxspeed' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. anhand von Mapillary-Aufnahmen oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-ways-surface": {
+          "missingKeyWord": "Oberflächen",
+          "layerName": "Wege",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Linien in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie das fehlende Attribut 'surface' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. anhand von Mapillary-Aufnahmen oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-cycleways-width": {
+          "missingKeyWord": "Radwegebreite",
+          "layerName": "Wege",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Linien in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie den Wegen das fehlende Attribut 'width' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. anhand von Mapillary-Aufnahmen oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-cycleways-segregated": {
+          "missingKeyWord": "Trennung zwischen Fuß- und Radverkehr",
+          "layerName": "Wege",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Linien in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie den Wegen das fehlende Attribut 'segregated' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. anhand von Mapillary-Aufnahmen oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-ways-wheelchair": {
+          "missingKeyWord": "Barrierefreiheit",
+          "layerName": "Wege"
+        },
+        "osm-mapping-buildings-type": {
+          "missingKeyWord": "Gebäudetypen",
+          "layerName": "Gebäude",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Polygone in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Editieren Sie das Attribut 'building' im OSM Editor. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können z.B. anhand von Mapillary-Aufnahmen und Luftbildern oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        },
+        "osm-mapping-parking-lane": {
+          "missingKeyWord": "Parkspuren",
+          "layerName": "Parken",
+          "stepsDesc": {
+            "clickFeatureInMap": "Die blauen Linien in der Karte zeigen die Mapping-Aufgaben. Wählen Sie eine davon aus.",
+            "clickEditWithOsm": "Durch Klicken auf den <b>'In OSM bearbeiten'</b> Link werden Sie zum OSM iD-Editor weitergeleitet.",
+            "fillInOSMiD": "Fügen Sie das fehlende Attribut 'parking:lane:both' bzw. 'parking:lane:left' bzw. 'parking:lane:right' im OSM Editor hinzu. Beachten Sie hierzu die entsprechenden Richtlinien aus dem OSM-Wiki. Die fehlenden Informationen können Mapillary-Aufnahmen, Luftbilder oder durch einen Vor-Ort Besuch ermittelt werden."
+          }
+        }
+      },
+      "dialogMessage": {
+        "title": "OSM Mapping Modus",
+        "body": "Willkommen im OSM-Mapping-Modus! In diesem Modus können Sie die GOAT-Daten verbessern, indem Sie zu OpenStreetMap (OSM) beitragen. Wir haben verschiedene Aufgaben für Objekte mit fehlenden Informationen erstellt, die mit dem iD-Editor oder einem anderen OSM-Editor (z.B. JOSM) bearbeitet werden können. Bitte machen Sie sich dafür mit den allgemeinen Mapping-Regeln und den entsprechenden Inhalten des OSM-Wikis vertraut. Auf der GOAT-Webseite steht außerdem ein Tutorial zum Mapping in OSM bereit. Vielen Dank für Ihren wertvollen Beitrag zur Open-Data-Welt!"
+      }
+    }
+  }
