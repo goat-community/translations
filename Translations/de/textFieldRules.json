@@ -1,0 +1,5 @@
+{
+    "greaterThanZero": "Der Wert sollte größer als 0 sein",
+    "smallerThanThousand": "Der Wert sollte kleiner als 1000 sein",
+    "onlyTwoDecimalPlaces": "Es sind nur 2 Nachkommastellen erlaubt"
+}
