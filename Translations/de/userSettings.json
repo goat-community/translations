@@ -1,0 +1,10 @@
+{
+    "changeStudyAreaTitle": "Untersuchungsgebiet wechseln",
+    "changeStudyAreaMessageWarning": "Das Untersuchungsgebiet wird gewechselt. Isochronenberechungen werden nicht gespeichert. Möchtest du trotzdem wechseln?",
+    "uiLanguage": "Sprache",
+    "contactSupport": "Support",
+    "logout": "Logout",
+    "mbOf": "MB von",
+    "mbUsed": "MB genutzt",
+    "scenarios": "Szenarien"
+  }
