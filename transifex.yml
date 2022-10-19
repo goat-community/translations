@@ -1,7 +1,15 @@
+# git:
+#   filters:
+#     - filter_type: file
+#       file_format: YML
+#       source_file: resources/appBar.json
+#       source_language: en
+#       translation_files_expression: "Translations/<lang>/appbar.json"
 git:
   filters:
-    - filter_type: file
-      file_format: YML
-      source_file: resources/appBar.json
+    - filter_type: dir
+      file_format: STRINGS
+      source_file_extension: strings
       source_language: en
-      translation_files_expression: "Translations/<lang>/appbar.json"
+      source_file_dir: locale/DirTest
+      translation_files_expression: "Translations/<lang>"
