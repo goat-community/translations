@@ -1,0 +1,47 @@
+{
+    "attributes": {
+      "way": {
+        "way_type": "Way type",
+        "surface": "Surface",
+        "wheelchair": "Wheelchair"
+      },
+      "poi": {
+        "category": "Amenity",
+        "name": "Name",
+        "opening_hours": "Opening Hours (Optional)"
+      },
+      "building": {
+        "building": "Building Type",
+        "building_type": "Building Type",
+        "building_levels": "Building Levels",
+        "building_levels_residential": "Building levels residential",
+        "population": "Number residents (optional)",
+        "gross_floor_area": "Gross Floor Area (optional)",
+        "labels": {
+          "area": "Area",
+          "building_levels": "Building levels",
+          "gross_floor_area": "Gross Floor Area",
+          "population": "Population"
+        }
+      }
+    },
+    "listValues": {
+      "way": {
+        "road": "Road",
+        "bridge": "Bridge",
+        "asphalt": "Asphalt",
+        "cobblestone": "Cobblestone",
+        "fine_gravel": "Fine gravel",
+        "gravel": "Gravel",
+        "grass": "Grass",
+        "unpaved": "Unpaved",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "building": {
+        "residential": "Residential",
+        "commercial": "Commercial",
+        "public": "Public"
+      }
+    }
+  }

@@ -1,0 +1,5 @@
+{
+    "greaterThanZero": "Value should be greater than 0",
+    "smallerThanThousand": "Value should be smaller than 1000",
+    "onlyTwoDecimalPlaces": "Only 2 decimal places are allowed"
+}

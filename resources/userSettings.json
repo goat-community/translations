@@ -1,0 +1,10 @@
+{
+    "changeStudyAreaTitle": "Change Study Area",
+    "changeStudyAreaMessageWarning": "The study area will be changed. Isochrone calculations will not be saved. Do you want to continue?",
+    "uiLanguage": "Language",
+    "contactSupport": "Contact Support",
+    "logout": "Logout",
+    "mbOf": "MB of",
+    "mbUsed": "MB used",
+    "scenarios": "Scenarios"
+  }

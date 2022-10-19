@@ -1,0 +1,321 @@
+{
+    "layerLegend": {
+      "title": "Layers Legend"
+    },
+    "snackbarMessages": {
+      "selectAmenities": "You must select at least one point of interest (Thematic Data)",
+      "selectAois": "You must select at least one area of interest (Thematic Data)",
+      "calculateIsochroneError": "Sorry but here no calculation is possible",
+      "calculateIsochroneCancelled": "Isochrone Calculation Cancelled",
+      "calculatePPFCancelled": "PPF Calculation Cancelled",
+      "uploadScenarioSuccess": "Features uploads successfully.",
+      "uploadScenarioError": "Sorry, an error happened while uploading the features in database.",
+      "notAllScnearioFeaturesUploaded": "The isochrone scenario calculation will not take in account not uploaded features.",
+      "cantDeleteAllScenarioFeatures": "Sorry. Scenario data can't be deleted at the moment.",
+      "allScenarioFeaturesDelete": "All Scenario Data is deleted",
+      "scenarioDeleted": "Scenario Deleted",
+      "cantDeleteScenario": "Sorry. Scenario can't be deleted at the moment.",
+      "noScenarioFeatureChangeAvailable": "Please do network or land-use change first",
+      "cantPrintBaseLayer": "This baselayer can't be printed",
+      "featuresAlreadyUploaded": "Features already exists",
+      "cantExportScenario": "An error happened. Scenario can't be exported!",
+      "zoomInToShowFeatures": "Zoom in to show features for",
+      "calculationCancelled": "Calculation Cancelled!",
+      "scenarioEditMode": "Edit Mode"
+    },
+    "layerGroup": {
+      "buildings_landuse": "Buildings and land use",
+      "streetlevelqualityLayers": "Street level quality",
+      "environmental_quality": "Environmental data",
+      "additional_data": "Additional data",
+      "publicTransportation": "Public Transportation",
+      "external_layers": "External layers",
+      "accessbilityBasemaps": "Heatmaps",
+      "basemap": "Background layers",
+      "heatmap": "Heatmaps"
+    },
+    "layerName": {
+      "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
+      "freiburg_mietspiegel": "Freiburg Mietspiegel",
+      "freiburg_laerm_strasse_nacht": "Noise street night",
+      "freiburg_laerm_strasse_tag": "Noise street day",
+      "freiburg_grundschulbezirke": "Primary school districts",
+      "freiburg_flaechennutzungsplan": "Flächennutzungsplan",
+      "freiburg_streetmap": "Freiburg Streetmap",
+      "freiburg_heatmap_radverkehr": "Heatmap cycling traffic",
+      "bayern_biotop_kartierung": "Bayern Biotop Kartierung",
+      "bayern_laerm_ballungszentren_strassen_tag": "Noise Main Roads (Tag)",
+      "bayern_laerm_ballungszentren_strassen_nacht": "Noise Main Roads (Nacht)",
+      "bayern_oekoflaechenkataster": "Bayern Ökoflaechenkataster",
+      "bayern_schutzgebiete_naturschutz": "Bayern Schutzgebiete Naturschutz",
+      "poi": "Point of Interest",
+      "aois": "Areas of Interest",
+      "way": "Ways",
+      "pois_aois_layer": "Amenities",
+      "sub_study_area": "Study Area",
+      "administrativeUnits": "Administrative Units",
+      "accidents_pedestrians": "Pedestrians - Accident Points (2016-2020)",
+      "accidents_cyclists": "Cyclists - Accident Points (2016-2020)",
+      "bicycle_counting_stations": "Bike Counting (2019)",
+      "biotops": "Biotops",
+      "ffh-area": "FFH Area",
+      "natureReserves": "Nature Reserves",
+      "noiseMainTrafficRoads": "Noise levels - main roads",
+      "waterProtectionArea": "Drinking Water Protection Areas",
+      "floodingAreasHQ100": "Flooding Areas (100-year flood)",
+      "dikes": "Dikes",
+      "protectedLandscape": "Protected Landscape Areas",
+      "landuse_atkis": "Landuse (ATKIS)",
+      "landuse_osm": "Landuse (OSM)",
+      "zoningPlan": "Zoning Plan",
+      "footpath_width": "Footpath Width",
+      "ways_lit": "Illuminance",
+      "ways_lanes": "Lanes",
+      "modeshare": "Mode share",
+      "noiseAircraftLDEN": "Aircraft noise - Level LDEN",
+      "noiseAircraftLNight": "Aircraft noise - Level LNight",
+      "noiseProtectionBauleitplanung": "Noise protection area for urban land use planning",
+      "ways_parking": "Parking",
+      "ways_smoothness": "Smoothness",
+      "ways_speed": "Speed",
+      "ways_category": "Street Categories Detailed",
+      "ways_category_aggregated": "Street Categories",
+      "street_crossings": "Street Crossings",
+      "street_furniture": "Street Furniture",
+      "street_furniture_bicycles": "Bicycle Rack",
+      "munichways": "Cycleway Quality (Munichways)",
+      "ways_surface": "Surface",
+      "ways_wheelchair": "Wheelchair Usability",
+      "footpath_visualization": "Walkability Index",
+      "ways_green_blue_index": "Green- and Blueindex",
+      "ways_liveliness": "Walking Environment",
+      "ways_urban_equipment": "Urban Equipment",
+      "ways_traffic_protection": "Traffic Protection",
+      "ways_security": "Illuminance",
+      "ways_sidewalk_quality": "Gehkomfort",
+      "primary_school_streams": "Potential Pedestrian Flows to Primary Schools",
+      "studyArea": "Study Area",
+      "ways": "Ways",
+      "building": "Buildings",
+      "osm_standard": "OSM Standard",
+      "osm_light": "OSM Light",
+      "osm_dark": "OSM Dark",
+      "open_topo_map": "Open Topo Map",
+      "mapbox_streets": "Mapbox",
+      "transit": "Public Transport",
+      "bing_aerial": "Bing Aerial",
+      "walking_trip_rate": "Walking trips per person",
+      "walkingShare": "Share of walking trips",
+      "cyclingShare": "Share of cycling trips",
+      "bicycle_rate": "Bicycle ownership",
+      "motorization_rate": "Motorized vehicles ownership",
+      "population_strata": "Population per strata",
+      "transmilenioShare": "Share of Transmilenio trips",
+      "sitpShare": "Share of SITP trips",
+      "cycling_trips_rate": "Cycling trips per person",
+      "pt_trips_rate": "Public transport trips per person",
+      "strata": "Strata",
+      "indicators": "Indicators",
+      "study_area_crop": "Study area",
+      "study_area": "Boundary",
+      "ways_Project_Sidewalk": "Project Sidewalk Score",
+      "heatmap_connectivity": "Connectivity",
+      "heatmap_local_accessibility": "Local Accessibility",
+      "heatmap_accessibility_population": "Accessibility and Population Density",
+      "heatmap_population": "Population Density",
+      "pt_station_count": "Average count of departures public transport (per hour)",
+      "pt_oev_gueteklasse": "ÖV Güteklassen (Public transport benchmark)",
+      "public_transport": "Public Transport"
+    },
+    "tooltips": {
+      "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
+      "clickForPPFCalculation": "Click for PPF calculation. Press ESC to exit",
+      "clickToSelectStudyArea": "Click to select the study area. Press ESC to exit",
+      "maxCircleRadius": "Maximum circle radius is 1000 m",
+      "clickToStartMeasure": "Click to start measuring. Press ESC to exit",
+      "clickToStartDrawing": "Click to start drawing. Press ESC to exit",
+      "clickToContinueDrawing": "Click to continue drawing",
+      "clickToFinishDrawing": "Click to finish drawing",
+      "clickToStartDrawingBoundary": "Click to start drawing the boundary. <br> Press ESC to exit",
+      "clickToStartDrawingCircle": "Click to start drawing the circle (Max Radius 1000 m). <br> Press ESC to exit",
+      "clickToStartDrawingPolygon": "Click to start drawing polygon.",
+      "clickToFinishDrawingPolygon": "Double-click or click starting point to finish.",
+      "clickOnFeatureToDelete": "Click on feature to delete it",
+      "clickOnFeatureToMove": "Click and drag the feature to move",
+      "drawHoleOnPolygon": "Draw over the polygon to create a hole",
+      "drawHoleOnPolygonNotAllowed": "Draw hole over a new drawn building",
+      "clickAndDragToModify": "Click and drag the features to modify geometry",
+      "clickToModifyAttributes": "Click to modify attributes",
+      "clickToRemove": "Click to remove it",
+      "clickToPlacePoint": "Click to place the point",
+      "changeDefaultColorPalette": "Change color (default)",
+      "changeScenarioColorPalette": "Change color (scenario)",
+      "clickToBldEntrance": "Click building to add entrance <br>Click and drag to modify <br>Right-click on feature to delete",
+      "clickToBldEntranceNotAllowed": "Can't add an entrance here. Click on a new drawn building.",
+      "moveExistingBuildingNotAllowed": "Hover on a new drawn building to activate move function",
+      "modifyExistingBuildingNotAllowed": "Hover on a new drawn building to activate modify function",
+      "openDocumentation": "Open Documentation",
+      "routingProfiles": {
+        "walking": {
+          "title": "Walking",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Default routing"
+            },
+            "elderly": {
+              "title": "Elderly",
+              "tooltip": "Routing with reduced walking speed"
+            },
+            "safe_night": {
+              "title": "Safe night",
+              "tooltip": "Routing excluding unlit paths"
+            }
+          }
+        },
+        "cycling": {
+          "title": "Cycling",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Default Routing"
+            },
+            "pedelec": {
+              "title": "Pedelec",
+              "tooltip": "Pedelec"
+            }
+          }
+        },
+        "walking_wheelchair": {
+          "title": "Wheelchair",
+          "options": {
+            "standard": {
+              "title": "Standard",
+              "tooltip": "Default Routing"
+            },
+            "electric": {
+              "title": "Electric",
+              "tooltip": "Electric"
+            }
+          }
+        }
+      },
+      "zoomToFeature": "Zoom to feature",
+      "deleteFeature": "Delete Feature",
+      "uploadFeature": "Upload Feature",
+      "restoreFeature": "Restore Feature",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "openFullScreen": "Open Fullscreen",
+      "search": "Search",
+      "measure": "Measure",
+      "exitFullScreen": "Exit Fullscreen",
+      "toggleStreetView": "Mapillary Imagery",
+      "notAvailable": "Not Available"
+    },
+    "popup": {
+      "attributes": "Attributes",
+      "info": "Info",
+      "editWithOsm": "Edit with OSM",
+      "confirm": "Confirm",
+      "modifyAttributes": "Modify Attributes"
+    },
+    "layerListValues": {
+      "road": "Road",
+      "bridge": "Bridge"
+    },
+    "contextMenu": {
+      "deleteIsochrone": "Delete Isochrone",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "deleteBldEntrancePoint": "Delete Population",
+      "deletePPFNetwork": "Delete",
+      "redoCalculation": "Redo Calculation"
+    },
+    "osmMode": {
+      "tasks": "OSM Mapping Tasks",
+      "steps": "Steps",
+      "info": "Info",
+      "stepsDesc": {
+        "clickFeatureInMap": "Click on a object in the map.",
+        "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+        "fillInOSMiD": "Add the missing {missingVar} in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example the mapillary images can be used. "
+      },
+      "note": "Note: the {layerNameVar} layer is updated every 10 minutes",
+      "shortDesc": "Complete the missing {missingVar}",
+      "longDesc": "Check out {layerNameVar} for missing {missingVar}.",
+      "layers": {
+        "mapping_pois_opening_hours": {
+          "missingKeyWord": "Opening Hours",
+          "layerName": "POIs",
+          "stepsDesc": {
+            "clickFeatureInMap": "The displayed icons in the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add to the POIs the missing tag 'opening_hours' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, the website of the amenity can be viewed or an on-site visit can be made."
+          }
+        },
+        "osm-mapping-ways-speed": {
+          "missingKeyWord": "Maxspeed",
+          "layerName": "Ways",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add to the ways the missing tag 'maxspeed' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary images can be used or an on-site visit can be made. "
+          }
+        },
+        "osm-mapping-ways-surface": {
+          "missingKeyWord": "Surface Type",
+          "layerName": "Ways",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add to the ways the missing tag 'surface' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary images can be used or an on-site visit can be made. "
+          }
+        },
+        "osm-mapping-cycleways-width": {
+          "missingKeyWord": "Cycleway Width",
+          "layerName": "Ways",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add to the ways the missing tag 'width' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary images can be used or an on-site visit can be made. "
+          }
+        },
+        "osm-mapping-cycleways-segregated": {
+          "missingKeyWord": "Cycleway Segregated",
+          "layerName": "Ways",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add the missing tag 'segregated' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary images can be used or an on-site visit can be made. "
+          }
+        },
+        "osm-mapping-ways-wheelchair": {
+          "missingKeyWord": "Wheelchair Usability",
+          "layerName": "Ways"
+        },
+        "osm-mapping-buildings-type": {
+          "missingKeyWord": "Building Type",
+          "layerName": "Buildings",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Edit the tag 'building' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary and aerial images can be used or an on-site visit can be made. "
+          }
+        },
+        "osm-mapping-parking-lane": {
+          "missingKeyWord": "Parking lane",
+          "layerName": "Parking lanes",
+          "stepsDesc": {
+            "clickFeatureInMap": "The blue lines on the map are the challenges. Select one of them.",
+            "clickEditWithOsm": "By clicking on the <b>'Edit with OSM'</b> link, you will be forwarded to the OSM iD-Editor.",
+            "fillInOSMiD": "Add the tag 'parking:lane:both' or 'parking:lane:left' and/or 'parking:lane:right' in the OSM editor according to the guidelines of the OSM wiki. To retrieve the missing information, for example, mapillary and aerial images can be used or an on-site visit can be made. "
+          }
+        }
+      },
+      "dialogMessage": {
+        "title": "OSM Mapping Mode",
+        "body": "Welcome to the OSM mapping mode! In this mode, you can improve GOAT data by contributing to OpenStreetMap (OSM). We have set up different tasks for objects with missing information, which can be completed using the iD-Editor or other OSM editors such as JOSM. Please familiarize yourself with the general mapping rules and the corresponding content of the OSM wiki for the objects you want to edit. Furthermore, you can find a tutorial on mapping in OSM on the GOAT website. Thanks for contributing to the world of open data!"
+      }
+    }
+  }

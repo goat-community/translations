@@ -1,0 +1,30 @@
+{
+    "title": "Indicators",
+    "recomputeIndicators": "Recompute",
+    "recomputingIndicators": "Recomputing Indicators",
+    "indicatorsComputedSuccessfully": "Indicators computed successfully",
+    "indicatorsComputationFailed": "Indicators computation failed",
+    "indicatorTimePicker": "Indicator Time Picker",
+    "timePickerErrorMessage": "Start time must be before end time",
+    "ptRouteTypes": {
+      "tram": "Tram",
+      "subway": "Subway",
+      "rail": "Rail",
+      "bus": "Bus",
+      "ferry": "Ferry",
+      "cable_car": "Cable Car",
+      "gondola": "Gondola",
+      "funicular": "Funicular",
+      "trolleybus": "Trolleybus",
+      "monorail": "Monorail"
+    },
+    "class": "Class",
+    "gutteklassenRating": {
+      "A": "High quality accessibility to Public transport",
+      "B": "Good quality accessibility to Public Transport",
+      "C": "Average quality accessibility to Public Transport",
+      "D": "Not so good accessibility to Public Transport",
+      "E": "Bad accessibility Public Transport",
+      "F": "Worst accessibility to Public Transport"
+    }
+}

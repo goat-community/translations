@@ -1,0 +1,13 @@
+{
+    "openingTime": "Opening Time",
+    "closingTime": "Closing Time",
+    "default": "Default",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "publicHolidays": "Public Holidays"
+  }

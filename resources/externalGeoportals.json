@@ -1,0 +1,18 @@
+{
+  "selectGeoportal": "Choose Geoportal",
+  "externalGeoportal": "External Geoportal",
+  "builtInGeoportals": {
+    "title": "Built-in Geoportals"
+  },
+  "ownGeoportals": {
+    "title": "Add own Geoportal",
+    "getLayersFrom": "Import layer from",
+    "results": "results",
+    "seeMore": "see more..."
+  },
+  "popups": {
+    "info": "There has been a problem with the external service running the geoportal. Please try to select another layer.",
+    "errorMessage": "This layer is not part of the study area, please select another layer!",
+    "agreement": "I understand"    
+  }
+}
