@@ -1,0 +1,241 @@
+{
+    "buttons": {
+      "login": "Login",
+      "user-settings": "Einstellungen",
+      "user-data-upload": "Daten hochladen",
+      "print": "Drucken",
+      "drawAndMeasure": "Messen",
+      "filter": "Filter Thematische Daten",
+      "edit": "Szenarien Entwickeln",
+      "settings": "Sprache",
+      "info": "GOAT Homepage besuchen",
+      "about": "About",
+      "isochrones": "Isochronen",
+      "heatmaps": "Heatmaps",
+      "indicators": "Indikatoren",
+      "staticLayers": "Weitere Layer",
+      "allLayers": "Alle Layer",
+      "activeLayers": "Aktive Layer"
+    },
+    "login": {
+      "title": "Login",
+      "form": {
+        "username": {
+          "label": "Benutzername",
+          "rule": "Benutzername ist erforderlich"
+        },
+        "password": {
+          "label": "Passwort",
+          "rule": "Passwort wird benötigt"
+        },
+        "submit": "Login"
+      }
+    },
+    "printMap": {
+      "title": "Karte drucken",
+      "connectionMsg": "Verbindung zum Server wird hergestellt, bitte warten ...",
+      "unavailableMsg": "Server ist nicht verfügbar. Bitte später nochmal versuchen...",
+      "form": {
+        "title": {
+          "label": "Titel",
+          "rule": "Feld ist erforderlich"
+        },
+        "layout": {
+          "label": "Layout",
+          "rule": "Feld ist erforderlich"
+        },
+        "scale": {
+          "label": "Maßstab",
+          "rule": "Feld ist erforderlich"
+        },
+        "resolution": {
+          "label": "Auflösung",
+          "rule": "Feld ist erforderlich"
+        },
+        "crs": {
+          "label": "Referenzsystem",
+          "rule": "Feld ist erforderlich"
+        },
+        "outputFormat": {
+          "label": "Ausgabeformat",
+          "rule": "Feld ist erforderlich"
+        },
+        "submit": "Drucken",
+        "abort": "Abbrechen",
+        "legend": "Legende",
+        "grid": "Gitter"
+      }
+    },
+    "drawAndMeasure": {
+      "title": "Messen",
+      "measure": {
+        "header": "Messen",
+        "length": "Länge",
+        "area": "Fläche"
+      },
+      "draw": {
+        "header": "Zeichnen",
+        "point": "Punkt",
+        "pointWithCoord": "Punkt mit Koordinaten",
+        "line": "Linie",
+        "polygon": "Polygon",
+        "label": "Label",
+        "color": "Farbe",
+        "transparency": "Transparenz"
+      },
+      "clear": "Löschen"
+    },
+    "dataUpload": {
+      "title": "Datei Manager",
+      "uploadSet": "Hochgeladene Datensätze",
+      "deleteAllFiles": "Alle Dateien löschen",
+      "deleteFile": "Datei löschen",
+      "deleteAllFilesMessage": "Bist du sicher, dass du alle Dateien löschen möchtest?",
+      "deleteFileMessage": "Bist du sicher, dass diese Datei löschen möchtest?",
+      "availableStorageExceeded": "Verfügbarer Speicherplatz überschritten",
+      "table": {
+        "category": "Kategorie",
+        "date": "Datum",
+        "size": "Größe",
+        "delete": "Löschen",
+        "status": "Status"
+      },
+      "dialog": {
+        "sizeLimitExceeded": "Maximale Dateigröße überschritten",
+        "uploadData": "Daten hochladen",
+        "uploadPointOfInterest": "Points of Interest hochladen",
+        "selectCategory": "Kategorie auswählen",
+        "customCategory": "Eigene Kategorie",
+        "browseYourFiles": "Datei auswählen",
+        "invalidCategory": "Kategorie existiert bereits. Bitte wähle einen anderen Namen."
+      },
+      "geojsonTemplate": "GeoJSON-Template",
+      "shapefileTemplate": "Shapefile-Template"
+    },
+    "filter": {
+      "title": "Filter Thematische Daten",
+      "poisSettings": {
+        "buttonTooltip": "Einstellung Gewichtung und Sensitivität",
+        "userDataSet": "Benutzerdatensatz",
+        "changeIcon": "Icon ändern",
+        "title": "Heatmap",
+        "selectWeight": "Auswahl Gewichtung",
+        "sensitivityIndex": "Sensitivitätsindex",
+        "sensitivityGraph": {
+          "title": "Erreichbarkeit",
+          "gravity": "Gravitätsbasierte Erreichbarkeit (%)",
+          "travelTime": "Reisezeit (Minuten)"
+        }
+      }
+    },
+    "edit": {
+      "title": "Szenarien entwickeln",
+      "scenarioLimitReached": "Maximale Anzahl an Szenarien erreicht",
+      "createScenario": "Szenario erstellen",
+      "ScenarioName": "Szenario-Name bearbeiten",
+      "deleteScenario": "Szenario löschen",
+      "noSelection": "Keine Auswahl",
+      "scenarioName": "Szenario name",
+      "scenario": "Szenario",
+      "scenarioImportExport": "Szenario Import/Export",
+      "selectLayer": "Layer auswählen",
+      "layerToEdit": "Layer zum Bearbeiten",
+      "selectFeatures": "Objekte auswählen",
+      "drawCircle": "Kreis zeichnen, um Objekte auszuwählen",
+      "selectOnMap": "Objekte auf Karte auswählen",
+      "editTools": "Bearbeitungstools",
+      "drawFeatureTooltip": "Objekt zeichnen",
+      "addBldEntrance": "Gebäudeeingang hinzufügen",
+      "modifyFeatureTooltip": "Objekt ändern",
+      "deleteFeature": "Objekt löschen",
+      "moveFeature": "Objekt verschieben",
+      "modifyAttributes": "Eigenschaften bearbeiten",
+      "drawPolygonHole": "Polygonausparung hinzufügen",
+      "snapGuide": "Zeichenhilfe",
+      "featureLabels": "Objekt Labels",
+      "clearBtn": "Reset",
+      "uploadBtn": "Hochladen",
+      "poi": "Point of Interest",
+      "way": "Weg",
+      "building": "Gebäude",
+      "scenarioEditMode": "Bearbeitungsmodus",
+      "editScenarioName": "Szenario bearbeiten",
+      "addEntrancesForBuildings": "Um den <b>Hochladen</b> Button zu aktivieren, müssen zu allen Gebäuden Eingänge hinzugefügt werden",
+      "popup": {
+        "deleteFeatureMsg": "Möchten Sie das ausgewählte Feature wirklich löschen?",
+        "selectWayType": "Art des Weges auswählen: ",
+        "wayType": "Art des Weges"
+      },
+      "table": {
+        "layer": "Layer",
+        "status": "Status",
+        "type": "Art",
+        "actions": "Aktionen"
+      },
+      "type": {
+        "new": "Neu",
+        "modified": "Geändert",
+        "restored": "restauriert",
+        "deleted": "Gelöscht"
+      },
+      "status": {
+        "uploaded": "hochgeladen",
+        "NotUploaded": "Nicht hochgeladen"
+      },
+      "activateLayerToDrawScenario": "Bitte aktivieren Sie den Layer, um Objekte wählen zu können.",
+      "dataTypeInfo": "Benötigter Datei Typ",
+      "geometryTypeInfo": "Benötigter Geometrie Typ",
+      "requiredFields": "Erforderliche Attribute",
+      "referenceSystemInfo": "Erforderliches Referenzsystem",
+      "featuresNotyetUploaded": "Objekte noch nicht hochgeladen. Klicken Sie auf Hochladen, um die Änderungen zu übernehmen.",
+      "differentGeometryType": "Falscher Geometrie-Typ",
+      "missingFields": "Fehlende Felder",
+      "fileCorrupted": "Geojson Datei ist beschädigt",
+      "noFile": "Keine Datei",
+      "allFeaturesUploaded": "Alle Objekte wurden hochgeladen",
+      "notAllUploaded": "Nicht alle Objekte wurden hochgeladen",
+      "errorHappened": "Es ist ein Fehler aufgetreten",
+      "scenarioFeatures": "Scenario Objekte",
+      "uploadYourData": "Bearbeitete Objekte hochladen",
+      "deleteAllTitle": "Alle löschen",
+      "deleteAllMessage": "Wollen Sie alle Scenario Daten löschen?",
+      "confirmDeleteScenario": "Wollen Sie das Scenario Daten löschen?",
+      "cantCreateScenarioFeature": "Objekt kann nicht gespeichert werden",
+      "canNotUpdateScenarioFeature": "Kann Objekt nicht aktualisieren",
+      "canNotDeleteScenarioFeature": "Objekt kann nicht gelöscht werden"
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "language": "Sprache",
+      "units": {
+        "header": "Einheiten",
+        "km": "Kilometer",
+        "miles": "Meilen"
+      }
+    },
+    "about": {
+      "title": "Über GOAT",
+      "whatIs": "<span><strong>Was ist GOAT?</strong></span>\n<p>Geo Open Accessibility Tool, oder einfach GOAT, ist ein digitales Planungswerkzeug für die integrierte Stadt- und Verkehrsplanung. Es zeichnet sich insbesondere durch seine Flexibilität und Interaktivität aus. So können dynamisch Szenarien entwickelt und hinsichtlich ihrer Effekte auf die Erreichbarkeit bewertet werden. </p><p>Das Tool wird als Open-Source-Projekt im Wesentlichen durch die <a href=\\\"https://plan4better.de\\\">Plan4Better GmbH</a> entwickelt. Die integrierten Datensätze werden in regelmäßigen Abständen aktualisiert. Es wird keine Haftung für die Richtigkeit der Analysen übernommen.</p>",
+      "usedData": "<span><strong>Datensätze</strong></span><p>GOAT basiert auf verschiedensten Datensätzen. Die folgenden Datensätze werden unter anderem visualisiert oder im Hintergrund für die Berechnungen verwendet:&nbsp;</p>",
+      "license": "<span><strong>Licence</strong></span>\n<p>GOAT ist lizensiert unter <a href=\\\"https://github.com/goat-community/goat/blob/main/LICENSE\\\">GPL-3.0</a> <br /><span>Falls Sie GOAT für Ihre Analysen verwenden, zitieren Sie Bitte wie folgt:&nbsp;</span><br /><span><strong>Geo Open Accessibility Tool - GOAT (Version 1.2) [Webtool]. Retrieved from&nbsp;<a href=\\\"https://plan4better.de\\\" rel=\\\"nofollow\\\">https://plan4better.de/</a></strong></span></p>\n",
+      "moreInfo": "Weitere Infos",
+      "layerAttributeTable": {
+        "data": "Layer",
+        "source": "Quelle",
+        "yearTimestamp": "Referenzjahr/Zeitstempel"
+      }
+    },
+    "documentation": {
+      "title": "Dokumentation",
+      "openInNewTab": "In neuem Tab öffnen"
+    },
+    "stylePanel": {
+      "selectAttribute": "Attribut auswählen",
+      "fillColor": "Fülleffekt",
+      "iconSize": "Icon Größe",
+      "changeIcon": "Icon ändern",
+      "urlIcon": "URL Upload",
+      "importIcon": "Mein PC",
+      "outlineColorAndWidth": "Formkontur & Stärke"
+    }
+  }
