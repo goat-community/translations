@@ -949,7 +949,7 @@
       "yoga": "Yoga",
       "outdoor_fitness_station": "Outdoor fitness station"
     },
-    "$vuetify": {
+    "vuetify": {
       "close": "Close",
       "dataIterator": {
         "pageText": "{0}-{1} of {2}",
