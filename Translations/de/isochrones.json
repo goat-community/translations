@@ -104,7 +104,7 @@
       "shared": "Anteil"
     },
     "travelTime": "Reisezeit (minuten)",
-    "travelTimeSlider": "Reisezeit<b/>(minuten)",
+    "travelTimeSlider": "Reisezeit<br />(minuten)",
     "amenityCount": "Amenity Count",
     "populationCount": "Bevölkerungszahl",
     "aoisArea": "AOIs Area"
