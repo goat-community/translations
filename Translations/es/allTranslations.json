@@ -1,0 +1,1170 @@
+{
+    "appTitle": "",
+    "buttonLabels": {
+        "yes": "",
+        "cancel": "",
+        "save": "",
+        "ok": "",
+        "remove": "",
+        "stop": "",
+        "exit": ""
+    },
+    "login": {
+        "title": "",
+        "signIn": "",
+        "signUp": "",
+        "toSignUpContactUs": "",
+        "noAccount": "",
+        "passwordRequired": "",
+        "passwordForgotten": "",
+        "maxFourChar": "",
+        "mailRequired": "",
+        "mailValid": "",
+        "fieldRequired": "",
+        "password": "",
+        "forgotPassword": "",
+        "backToLogin": "",
+        "forgotYourPassword": "",
+        "forgotPasswordText": "",
+        "sendResetLink": "",
+        "resetYourPassword": "",
+        "passwordMustMatch": "",
+        "resetPassword": "",
+        "confirmPassword": "",
+        "newPassword": "",
+        "register": "",
+        "agreeTerms": "",
+        "termsAndConditions": "",
+        "activateAccount": "",
+        "accountActivated": "",
+        "newsletter": "",
+        "firstName": "",
+        "lastName": "",
+        "profession": "",
+        "domain": "",
+        "professionList": {
+            "student": "",
+            "employee": "",
+            "self-employed": "",
+            "other": ""
+        },
+        "domainList": {
+            "transport_planning": "",
+            "urban_planning": "",
+            "gis": "",
+            "architecture": "",
+            "location_planning": "",
+            "civil_engineer": "",
+            "political_decision_maker": "",
+            "other": ""
+        }
+    },
+    "textFieldRules": {
+        "greaterThanZero": "",
+        "smallerThanThousand": "",
+        "onlyTwoDecimalPlaces": ""
+    },
+    "weekday": "",
+    "daysOfWeek": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+    },
+    "fromTime": "",
+    "toTime": "",
+    "appBar": {
+        "buttons": {
+            "login": "",
+            "user-settings": "",
+            "user-data-upload": "",
+            "print": "",
+            "drawAndMeasure": "",
+            "filter": "",
+            "edit": "",
+            "settings": "",
+            "info": "",
+            "about": "",
+            "isochrones": "",
+            "heatmaps": "",
+            "indicators": "",
+            "staticLayers": "",
+            "allLayers": "",
+            "activeLayers": ""
+        },
+        "login": {
+            "title": "",
+            "form": {
+                "username": {
+                    "label": "",
+                    "rule": ""
+                },
+                "password": {
+                    "label": "",
+                    "rule": ""
+                },
+                "submit": ""
+            }
+        },
+        "printMap": {
+            "title": "",
+            "connectionMsg": "",
+            "unavailableMsg": "",
+            "form": {
+                "title": {
+                    "label": "",
+                    "rule": ""
+                },
+                "layout": {
+                    "label": "",
+                    "rule": ""
+                },
+                "scale": {
+                    "label": "",
+                    "rule": ""
+                },
+                "resolution": {
+                    "label": "",
+                    "rule": ""
+                },
+                "crs": {
+                    "label": "",
+                    "rule": ""
+                },
+                "outputFormat": {
+                    "label": "",
+                    "rule": ""
+                },
+                "submit": "",
+                "abort": "",
+                "legend": "",
+                "grid": ""
+            }
+        },
+        "drawAndMeasure": {
+            "title": "",
+            "measure": {
+                "header": "",
+                "length": "",
+                "area": ""
+            },
+            "draw": {
+                "header": "",
+                "point": "",
+                "pointWithCoord": "",
+                "line": "",
+                "polygon": "",
+                "label": "",
+                "color": "",
+                "transparency": ""
+            },
+            "clear": ""
+        },
+        "dataUpload": {
+            "title": "",
+            "uploadSet": "",
+            "deleteAllFiles": "",
+            "deleteFile": "",
+            "deleteAllFilesMessage": "",
+            "deleteFileMessage": "",
+            "availableStorageExceeded": "",
+            "table": {
+                "category": "",
+                "date": "",
+                "size": "",
+                "delete": "",
+                "status": ""
+            },
+            "dialog": {
+                "sizeLimitExceeded": "",
+                "uploadData": "",
+                "uploadPointOfInterest": "",
+                "selectCategory": "",
+                "customCategory": "",
+                "browseYourFiles": "",
+                "invalidCategory": ""
+            },
+            "geojsonTemplate": "",
+            "shapefileTemplate": ""
+        },
+        "filter": {
+            "title": "",
+            "poisSettings": {
+                "buttonTooltip": "",
+                "userDataSet": "",
+                "changeIcon": "",
+                "title": "",
+                "selectWeight": "",
+                "sensitivityIndex": "",
+                "sensitivityGraph": {
+                    "title": "",
+                    "gravity": "",
+                    "travelTime": ""
+                }
+            }
+        },
+        "edit": {
+            "title": "",
+            "scenarioLimitReached": "",
+            "createScenario": "",
+            "ScenarioName": "",
+            "deleteScenario": "",
+            "noSelection": "",
+            "scenarioName": "",
+            "scenario": "",
+            "scenarioImportExport": "",
+            "selectLayer": "",
+            "layerToEdit": "",
+            "selectFeatures": "",
+            "drawCircle": "",
+            "selectOnMap": "",
+            "editTools": "",
+            "drawFeatureTooltip": "",
+            "addBldEntrance": "",
+            "modifyFeatureTooltip": "",
+            "deleteFeature": "",
+            "moveFeature": "",
+            "modifyAttributes": "",
+            "drawPolygonHole": "",
+            "snapGuide": "",
+            "featureLabels": "",
+            "clearBtn": "",
+            "uploadBtn": "",
+            "poi": "",
+            "way": "",
+            "building": "",
+            "scenarioEditMode": "",
+            "editScenarioName": "",
+            "addEntrancesForBuildings": "",
+            "popup": {
+                "deleteFeatureMsg": "",
+                "selectWayType": "",
+                "wayType": ""
+            },
+            "table": {
+                "layer": "",
+                "status": "",
+                "type": "",
+                "actions": ""
+            },
+            "type": {
+                "new": "",
+                "modified": "",
+                "restored": "",
+                "deleted": ""
+            },
+            "status": {
+                "uploaded": "",
+                "NotUploaded": ""
+            },
+            "activateLayerToDrawScenario": "",
+            "dataTypeInfo": "",
+            "geometryTypeInfo": "",
+            "requiredFields": "",
+            "referenceSystemInfo": "",
+            "featuresNotyetUploaded": "",
+            "differentGeometryType": "",
+            "missingFields": "",
+            "fileCorrupted": "",
+            "noFile": "",
+            "allFeaturesUploaded": "",
+            "notAllUploaded": "",
+            "errorHappened": "",
+            "scenarioFeatures": "",
+            "uploadYourData": "",
+            "deleteAllTitle": "",
+            "deleteAllMessage": "",
+            "confirmDeleteScenario": "",
+            "cantCreateScenarioFeature": "",
+            "canNotUpdateScenarioFeature": "",
+            "canNotDeleteScenarioFeature": ""
+        },
+        "settings": {
+            "title": "",
+            "language": "",
+            "units": {
+                "header": "",
+                "km": "",
+                "miles": ""
+            }
+        },
+        "about": {
+            "title": "",
+            "whatIs": "",
+            "usedData": "",
+            "license": "",
+            "moreInfo": "",
+            "layerAttributeTable": {
+                "data": "",
+                "source": "",
+                "yearTimestamp": ""
+            }
+        },
+        "documentation": {
+            "title": "",
+            "openInNewTab": ""
+        },
+        "stylePanel": {
+            "selectAttribute": "",
+            "fillColor": "",
+            "iconSize": "",
+            "changeIcon": "",
+            "urlIcon": "",
+            "importIcon": "",
+            "outlineColorAndWidth": ""
+        }
+    },
+    "isochrones": {
+        "title": "",
+        "calculation": "",
+        "calculationTitle": "",
+        "stopIsochroneCalc": "",
+        "mode": {
+            "default": "",
+            "input": "",
+            "scenario": ""
+        },
+        "single": {
+            "singleIsochrone": "",
+            "title": "",
+            "type": "",
+            "searchBox": "",
+            "startTooltip": "",
+            "ppfTooltip": "",
+            "tableDataTitle": ""
+        },
+        "multiple": {
+            "title": "",
+            "type": "",
+            "selectMethod": "",
+            "studyArea": "",
+            "clear": "",
+            "calculate": "",
+            "studyAreaInfoLabel": "",
+            "drawPolygon": "",
+            "amenityCount": "",
+            "limit": "",
+            "drawPolygonInfoLabel": "",
+            "tableDataTitle": ""
+        },
+        "options": {
+            "title": "",
+            "subOptions": "",
+            "speed": "",
+            "time": "",
+            "nr": "",
+            "from_time": "",
+            "access_mode": "",
+            "egress_mode": "",
+            "to_time": "",
+            "calcType": "",
+            "calcModus": "",
+            "alphaShapeMode": "",
+            "default": "",
+            "scenario": "",
+            "comparison": "",
+            "routingProfile": "",
+            "routing": "",
+            "walking_standard": "",
+            "walking_elderly": "",
+            "walking_safe_night": "",
+            "walking_wheelchair": "",
+            "walking_wheelchair_standard": "",
+            "walking_wheelchair_electric": "",
+            "cycling_standard": "",
+            "cycling_pedelec": "",
+            "transitModes": "",
+            "transit": "",
+            "walk": "",
+            "bicycle": "",
+            "car": "",
+            "car_park": ""
+        },
+        "results": {
+            "title": "",
+            "multiIsochroneHeader": "",
+            "additionalLayers": "",
+            "showDataTooltip": "",
+            "hideDataTooltip": "",
+            "toggleVisibilityTooltip": "",
+            "showResultsTooltip": "",
+            "hideResultsTooltip": "",
+            "downloadTooltip": "",
+            "deleteCalcTooltip": "",
+            "deleteAll": "",
+            "changeColorTooltip": "",
+            "dataTable": "",
+            "roadNetwork": "",
+            "table": {
+                "type": "",
+                "range": "",
+                "area": "",
+                "visible": "",
+                "population": "",
+                "legend": ""
+            },
+            "colorMessage": ""
+        },
+        "tableData": {
+            "timeFilter": "",
+            "searchPois": "",
+            "selectTimeMsg": "",
+            "noDataMsg": "",
+            "selectAmenitiesMsg": "",
+            "table": {
+                "pois": "",
+                "isochrone": "",
+                "studyArea": "",
+                "population": "",
+                "reachedPopulation": "",
+                "shared": ""
+            },
+            "travelTime": "",
+            "travelTimeSlider": "",
+            "amenityCount": "",
+            "populationCount": "",
+            "aoisArea": ""
+        },
+        "isochrones": "",
+        "deleteTitle": "",
+        "deleteMessage": "",
+        "deleteAllMessage": "",
+        "download": {
+            "title": "",
+            "fileName": "",
+            "outputFormat": "",
+            "download": ""
+        },
+        "additionalLayers": {
+            "defaultNetwork": "",
+            "inputNetwork": "",
+            "studyArea": "",
+            "startingPoints": ""
+        },
+        "pickColor": {
+            "title": ""
+        }
+    },
+    "indicators": {
+        "title": "",
+        "recomputeIndicators": "",
+        "recomputingIndicators": "",
+        "indicatorsComputedSuccessfully": "",
+        "indicatorsComputationFailed": "",
+        "indicatorTimePicker": "",
+        "timePickerErrorMessage": "",
+        "ptRouteTypes": {
+            "tram": "",
+            "subway": "",
+            "rail": "",
+            "bus": "",
+            "ferry": "",
+            "cable_car": "",
+            "gondola": "",
+            "funicular": "",
+            "trolleybus": "",
+            "monorail": ""
+        },
+        "class": "",
+        "gutteklassenRating": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": ""
+        }
+    },
+    "poisFilter": {
+        "showTimeFilter": "",
+        "selectHourLabel": "",
+        "selectDayLabel": ""
+    },
+    "layerTree": {
+        "title": "",
+        "settings": {
+            "transparency": ""
+        }
+    },
+    "externalGeoportals": {
+        "selectGeoportal": "",
+        "externalGeoportal": "",
+        "builtInGeoportals": {
+            "title": ""
+        },
+        "ownGeoportals": {
+            "title": "",
+            "getLayersFrom": "",
+            "results": "",
+            "seeMore": ""
+        },
+        "popups": {
+            "info": "",
+            "errorMessage": "",
+            "agreement": ""
+        }
+    },
+    "map": {
+        "layerLegend": {
+            "title": ""
+        },
+        "snackbarMessages": {
+            "selectAmenities": "",
+            "selectAois": "",
+            "calculateIsochroneError": "",
+            "calculateIsochroneCancelled": "",
+            "calculatePPFCancelled": "",
+            "uploadScenarioSuccess": "",
+            "uploadScenarioError": "",
+            "notAllScnearioFeaturesUploaded": "",
+            "cantDeleteAllScenarioFeatures": "",
+            "allScenarioFeaturesDelete": "",
+            "scenarioDeleted": "",
+            "cantDeleteScenario": "",
+            "noScenarioFeatureChangeAvailable": "",
+            "cantPrintBaseLayer": "",
+            "featuresAlreadyUploaded": "",
+            "cantExportScenario": "",
+            "zoomInToShowFeatures": "",
+            "calculationCancelled": "",
+            "scenarioEditMode": ""
+        },
+        "layerGroup": {
+            "buildings_landuse": "",
+            "streetlevelqualityLayers": "",
+            "environmental_quality": "",
+            "additional_data": "",
+            "publicTransportation": "",
+            "external_layers": "",
+            "accessbilityBasemaps": "",
+            "basemap": "",
+            "heatmap": ""
+        },
+        "layerName": {
+            "freiburg_bodenrichtwert": "",
+            "freiburg_mietspiegel": "",
+            "freiburg_laerm_strasse_nacht": "",
+            "freiburg_laerm_strasse_tag": "",
+            "freiburg_grundschulbezirke": "",
+            "freiburg_flaechennutzungsplan": "",
+            "freiburg_streetmap": "",
+            "freiburg_heatmap_radverkehr": "",
+            "bayern_biotop_kartierung": "",
+            "bayern_laerm_ballungszentren_strassen_tag": "",
+            "bayern_laerm_ballungszentren_strassen_nacht": "",
+            "bayern_oekoflaechenkataster": "",
+            "bayern_schutzgebiete_naturschutz": "",
+            "poi": "",
+            "aois": "",
+            "way": "",
+            "pois_aois_layer": "",
+            "sub_study_area": "",
+            "administrativeUnits": "",
+            "accidents_pedestrians": "",
+            "accidents_cyclists": "",
+            "bicycle_counting_stations": "",
+            "biotops": "",
+            "ffh-area": "",
+            "natureReserves": "",
+            "noiseMainTrafficRoads": "",
+            "waterProtectionArea": "",
+            "floodingAreasHQ100": "",
+            "dikes": "",
+            "protectedLandscape": "",
+            "landuse_atkis": "",
+            "landuse_osm": "",
+            "zoningPlan": "",
+            "footpath_width": "",
+            "ways_lit": "",
+            "ways_lanes": "",
+            "modeshare": "",
+            "noiseAircraftLDEN": "",
+            "noiseAircraftLNight": "",
+            "noiseProtectionBauleitplanung": "",
+            "ways_parking": "",
+            "ways_smoothness": "",
+            "ways_speed": "",
+            "ways_category": "",
+            "ways_category_aggregated": "",
+            "street_crossings": "",
+            "street_furniture": "",
+            "street_furniture_bicycles": "",
+            "munichways": "",
+            "ways_surface": "",
+            "ways_wheelchair": "",
+            "footpath_visualization": "",
+            "ways_green_blue_index": "",
+            "ways_liveliness": "",
+            "ways_urban_equipment": "",
+            "ways_traffic_protection": "",
+            "ways_security": "",
+            "ways_sidewalk_quality": "",
+            "primary_school_streams": "",
+            "studyArea": "",
+            "ways": "",
+            "building": "",
+            "osm_standard": "",
+            "osm_light": "",
+            "osm_dark": "",
+            "open_topo_map": "",
+            "mapbox_streets": "",
+            "transit": "",
+            "bing_aerial": "",
+            "walking_trip_rate": "",
+            "walkingShare": "",
+            "cyclingShare": "",
+            "bicycle_rate": "",
+            "motorization_rate": "",
+            "population_strata": "",
+            "transmilenioShare": "",
+            "sitpShare": "",
+            "cycling_trips_rate": "",
+            "pt_trips_rate": "",
+            "strata": "",
+            "indicators": "",
+            "study_area_crop": "",
+            "study_area": "",
+            "ways_Project_Sidewalk": "",
+            "heatmap_connectivity": "",
+            "heatmap_local_accessibility": "",
+            "heatmap_accessibility_population": "",
+            "heatmap_population": "",
+            "pt_station_count": "",
+            "pt_oev_gueteklasse": "",
+            "public_transport": ""
+        },
+        "tooltips": {
+            "clickForIsochroneCalculation": "",
+            "clickForPPFCalculation": "",
+            "clickToSelectStudyArea": "",
+            "maxCircleRadius": "",
+            "clickToStartMeasure": "",
+            "clickToStartDrawing": "",
+            "clickToContinueDrawing": "",
+            "clickToFinishDrawing": "",
+            "clickToStartDrawingBoundary": "",
+            "clickToStartDrawingCircle": "",
+            "clickToStartDrawingPolygon": "",
+            "clickToFinishDrawingPolygon": "",
+            "clickOnFeatureToDelete": "",
+            "clickOnFeatureToMove": "",
+            "drawHoleOnPolygon": "",
+            "drawHoleOnPolygonNotAllowed": "",
+            "clickAndDragToModify": "",
+            "clickToModifyAttributes": "",
+            "clickToRemove": "",
+            "clickToPlacePoint": "",
+            "changeDefaultColorPalette": "",
+            "changeScenarioColorPalette": "",
+            "clickToBldEntrance": "",
+            "clickToBldEntranceNotAllowed": "",
+            "moveExistingBuildingNotAllowed": "",
+            "modifyExistingBuildingNotAllowed": "",
+            "openDocumentation": "",
+            "routingProfiles": {
+                "walking": {
+                    "title": "",
+                    "options": {
+                        "standard": {
+                            "title": "",
+                            "tooltip": ""
+                        },
+                        "elderly": {
+                            "title": "",
+                            "tooltip": ""
+                        },
+                        "safe_night": {
+                            "title": "",
+                            "tooltip": ""
+                        }
+                    }
+                },
+                "cycling": {
+                    "title": "",
+                    "options": {
+                        "standard": {
+                            "title": "",
+                            "tooltip": ""
+                        },
+                        "pedelec": {
+                            "title": "",
+                            "tooltip": ""
+                        }
+                    }
+                },
+                "walking_wheelchair": {
+                    "title": "",
+                    "options": {
+                        "standard": {
+                            "title": "",
+                            "tooltip": ""
+                        },
+                        "electric": {
+                            "title": "",
+                            "tooltip": ""
+                        }
+                    }
+                }
+            },
+            "zoomToFeature": "",
+            "deleteFeature": "",
+            "uploadFeature": "",
+            "restoreFeature": "",
+            "zoomIn": "",
+            "zoomOut": "",
+            "openFullScreen": "",
+            "search": "",
+            "measure": "",
+            "exitFullScreen": "",
+            "toggleStreetView": "",
+            "notAvailable": ""
+        },
+        "popup": {
+            "attributes": "",
+            "info": "",
+            "editWithOsm": "",
+            "confirm": "",
+            "modifyAttributes": ""
+        },
+        "layerListValues": {
+            "road": "",
+            "bridge": ""
+        },
+        "contextMenu": {
+            "deleteIsochrone": "",
+            "zoomIn": "",
+            "zoomOut": "",
+            "deleteBldEntrancePoint": "",
+            "deletePPFNetwork": "",
+            "redoCalculation": ""
+        },
+        "osmMode": {
+            "tasks": "",
+            "steps": "",
+            "info": "",
+            "stepsDesc": {
+                "clickFeatureInMap": "",
+                "clickEditWithOsm": "",
+                "fillInOSMiD": ""
+            },
+            "note": "",
+            "shortDesc": "",
+            "longDesc": "",
+            "layers": {
+                "mapping_pois_opening_hours": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-ways-speed": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-ways-surface": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-cycleways-width": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-cycleways-segregated": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-ways-wheelchair": {
+                    "missingKeyWord": "",
+                    "layerName": ""
+                },
+                "osm-mapping-buildings-type": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                },
+                "osm-mapping-parking-lane": {
+                    "missingKeyWord": "",
+                    "layerName": "",
+                    "stepsDesc": {
+                        "clickFeatureInMap": "",
+                        "clickEditWithOsm": "",
+                        "fillInOSMiD": ""
+                    }
+                }
+            },
+            "dialogMessage": {
+                "title": "",
+                "body": ""
+            }
+        }
+    },
+    "userSettings": {
+        "changeStudyAreaTitle": "",
+        "changeStudyAreaMessageWarning": "",
+        "uiLanguage": "",
+        "contactSupport": "",
+        "logout": "",
+        "mbOf": "",
+        "mbUsed": "",
+        "scenarios": ""
+    },
+    "pois": {
+        "education": "",
+        "foodanddrink": "",
+        "transport": "",
+        "other": "",
+        "sport": "",
+        "nature": "",
+        "mobilitystations": "",
+        "services": "",
+        "shop": "",
+        "tourismandleisure": "",
+        "nursery": "",
+        "kindergarten": "",
+        "primary_school": "",
+        "secondary_school": "",
+        "gymnasium": "",
+        "grundschule": "",
+        "elementary_school": "",
+        "middle_school": "",
+        "high_school": "",
+        "realschule": "",
+        "hauptschule": "",
+        "hauptschule_mittelschule": "",
+        "werkrealschule": "",
+        "school": "",
+        "library": "",
+        "bar": "",
+        "biergarten": "",
+        "cafe": "",
+        "pub": "",
+        "fast_food": "",
+        "ice_cream": "",
+        "restaurant": "",
+        "nightclub": "",
+        "bike_sharing": "",
+        "cargo_bike": "",
+        "car_sharing": "",
+        "charging_station": "",
+        "bus_stop": "",
+        "tram_stop": "",
+        "transmicable": "",
+        "subway_entrance": "",
+        "sitp": "",
+        "transmilenio": "",
+        "rail_station": "",
+        "taxi": "",
+        "bikesharing_ffb": "",
+        "carsharing_ffb": "",
+        "charging_station_marker_ffb": "",
+        "charging_station_other_ffb": "",
+        "charging_station_public_ffb": "",
+        "e_parking_ffb": "",
+        "l-station_ffb": "",
+        "s-station_prio1_ffb": "",
+        "s-station_prio2_ffb": "",
+        "hairdresser": "",
+        "atm": "",
+        "bank": "",
+        "health": "",
+        "dentist": "",
+        "doctors": "",
+        "pharmacy": "",
+        "post_box": "",
+        "post_office": "",
+        "general_practitioner": "",
+        "fuel": "",
+        "recycling": "",
+        "bakery": "",
+        "butcher": "",
+        "clothes": "",
+        "convenience": "",
+        "greengrocer": "",
+        "kiosk": "",
+        "mall": "",
+        "shoes": "",
+        "supermarket": "",
+        "discount_supermarket": "",
+        "international_supermarket": "",
+        "hypermarket": "",
+        "chemist": "",
+        "organic_supermarket": "",
+        "marketplace": "",
+        "cinema": "",
+        "theatre": "",
+        "museum": "",
+        "hotel": "",
+        "hostel": "",
+        "guest_house": "",
+        "gallery": "",
+        "university": "",
+        "hospital": "",
+        "playground": "",
+        "population": "",
+        "recreationAreas": "",
+        "park": "",
+        "forest": "",
+        "heath_scrub": "",
+        "lake": "",
+        "river": "",
+        "governmentandsec": "",
+        "notary": "",
+        "cade": "",
+        "police": "",
+        "sports": "",
+        "community_sports_center": "",
+        "waterpark": "",
+        "discount_gym": "",
+        "gym": "",
+        "yoga": "",
+        "outdoor_fitness_station": ""
+    },
+    "$vuetify": {
+        "close": "",
+        "dataIterator": {
+            "pageText": "",
+            "noResultsText": "",
+            "loadingText": ""
+        },
+        "dataTable": {
+            "itemsPerPageText": "",
+            "ariaLabel": {
+                "sortDescending": "",
+                "sortAscending": "",
+                "sortNone": ""
+            }
+        },
+        "dataFooter": {
+            "pageText": "",
+            "itemsPerPageText": "",
+            "itemsPerPageAll": "",
+            "nextPage": "",
+            "prevPage": "",
+            "firstPage": "",
+            "lastPage": ""
+        },
+        "datePicker": {
+            "itemsSelected": ""
+        },
+        "noDataText": "",
+        "carousel": {
+            "prev": "",
+            "next": ""
+        },
+        "calendar": {
+            "moreEvents": ""
+        },
+        "timePicker": {
+            "am": "",
+            "pm": ""
+        }
+    },
+    "common": {
+        "required": ""
+    },
+    "dynamicFields": {
+        "attributes": {
+            "way": {
+                "way_type": "",
+                "surface": "",
+                "wheelchair": ""
+            },
+            "poi": {
+                "category": "",
+                "name": "",
+                "opening_hours": ""
+            },
+            "building": {
+                "building": "",
+                "building_type": "",
+                "building_levels": "",
+                "building_levels_residential": "",
+                "population": "",
+                "gross_floor_area": "",
+                "labels": {
+                    "area": "",
+                    "building_levels": "",
+                    "gross_floor_area": "",
+                    "population": ""
+                }
+            }
+        },
+        "listValues": {
+            "way": {
+                "road": "",
+                "bridge": "",
+                "asphalt": "",
+                "cobblestone": "",
+                "fine_gravel": "",
+                "gravel": "",
+                "grass": "",
+                "unpaved": "",
+                "yes": "",
+                "no": ""
+            },
+            "building": {
+                "residential": "",
+                "commercial": "",
+                "public": ""
+            }
+        }
+    },
+    "openingHours": {
+        "openingTime": "",
+        "closingTime": "",
+        "default": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "publicHolidays": ""
+    },
+    "charts": {
+        "indicators": {
+            "sidewalk_quality": "",
+            "traffic_protection": "",
+            "security": "",
+            "vegetation": "",
+            "water": "",
+            "green_blue_index": "",
+            "liveliness": "",
+            "data_quality": "",
+            "comfort": "",
+            "walkability": [
+                ""
+            ],
+            "scale_label_indicators": "",
+            "scale_label_index": "",
+            "sidewalk": "",
+            "width": "",
+            "smoothness": "",
+            "surface": "",
+            "wheelchair_classified": "",
+            "lanes": "",
+            "oneway": "",
+            "maxspeed": "",
+            "parking": "",
+            "cnt_accidents": "",
+            "noise_day": "",
+            "noise_night": "",
+            "lit_classified": "",
+            "landuse": "",
+            "cnt_pois": "",
+            "cnt_population": "",
+            "cnt_benches": "",
+            "cnt_waste_baskets": "",
+            "cnt_toilets": "",
+            "cnt_fountains": ""
+        }
+    },
+    "fa6Categories": {
+        "new-in-v6": "",
+        "photos-images": "",
+        "_other_": "",
+        "alphabet": "",
+        "mathematics": "",
+        "nature": "",
+        "users-people": "",
+        "travel-hotel": "",
+        "music-audio": "",
+        "alert": "",
+        "time": "",
+        "animals": "",
+        "astronomy": "",
+        "science-fiction": "",
+        "text-formatting": "",
+        "maps": "",
+        "construction": "",
+        "arrows": "",
+        "religion": "",
+        "fruits-vegetables": "",
+        "education": "",
+        "social": "",
+        "editing": "",
+        "spinners": "",
+        "communication": "",
+        "accessibility": "",
+        "money": "",
+        "gaming": "",
+        "media-playback": "",
+        "food-beverage": "",
+        "medical-health": "",
+        "shopping": "",
+        "security": "",
+        "childhood": "",
+        "political": "",
+        "buildings": "",
+        "logistics": "",
+        "business": "",
+        "energy": "",
+        "household": "",
+        "design": "",
+        "transportation": "",
+        "moving": "",
+        "devices-hardware": "",
+        "writing": "",
+        "connectivity": "",
+        "charity": "",
+        "shapes": "",
+        "clothing-fashion": "",
+        "sports-fitness": "",
+        "files": "",
+        "coding": "",
+        "automotive": "",
+        "halloween": "",
+        "toggle": "",
+        "marketing": "",
+        "film-video": "",
+        "holidays": "",
+        "science": "",
+        "weather": "",
+        "emoji": "",
+        "camping": "",
+        "gender": "",
+        "hands": "",
+        "all": "",
+        "custom(p4b)": "",
+        "communication & devices": "",
+        "others": "",
+        "food & drinks": "",
+        "health": "",
+        "items": "",
+        "people & clothing": "",
+        "sign & symbols": "",
+        "sport": "",
+        "tourism & holidays": ""
+    }
+}
