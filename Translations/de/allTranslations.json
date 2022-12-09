@@ -406,7 +406,8 @@
                 "population": "Bevölkerung",
                 "legend": "Legende"
             },
-            "colorMessage": "Lowest: <b>0 min</b>, Highest: <b>20 min</b>"
+            "colorMessage": "Lowest: <b>0 min</b>, Highest: <b>20 min</b>",
+            "showAdditionalData": "Weitere Daten"
         },
         "tableData": {
             "timeFilter": "Filter Reisezeit",
@@ -446,6 +447,12 @@
         },
         "pickColor": {
             "title": "Farbe der Isochrone"
+        },
+        "styling": {
+            "fillColor": "Fülleffekt",
+            "StrokeColor": "Formkontur",
+            "strokeWidth": "Stärke",
+            "strokeStyle": "Art"
         }
     },
     "indicators": {
@@ -947,7 +954,8 @@
         "discount_gym": "Discount Fitnessstudio",
         "gym": "Fitnessstudio",
         "yoga": "Yoga",
-        "outdoor_fitness_station": "Outdoor Fitness"
+        "outdoor_fitness_station": "Outdoor Fitness",
+        "swimming_pool_outdoor": "Freibad"
     },
     "$vuetify": {
         "close": "Schließen",
