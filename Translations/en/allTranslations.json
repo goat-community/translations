@@ -406,7 +406,8 @@
                 "population": "Population",
                 "legend": "Legend"
             },
-            "colorMessage": "Lowest: <b>0 min</b>, Highest: <b>20 min</b>"
+            "colorMessage": "Lowest: <b>0 min</b>, Highest: <b>20 min</b>",
+            "showAdditionalData": "Additional data"
         },
         "tableData": {
             "timeFilter": "Time filter",
@@ -446,6 +447,12 @@
         },
         "pickColor": {
             "title": "Isochrone Color"
+        },
+        "styling": {
+            "fillColor": "Fill Color",
+            "StrokeColor": "Stroke",
+            "strokeWidth": "Stroke Width",
+            "strokeStyle": "Stroke Style"
         }
     },
     "indicators": {
@@ -947,7 +954,8 @@
         "discount_gym": "Discount Gym",
         "gym": "Gym",
         "yoga": "Yoga",
-        "outdoor_fitness_station": "Outdoor fitness station"
+        "outdoor_fitness_station": "Outdoor fitness station",
+        "swimming_pool_outdoor": "Swimming Pool Outdoor"
     },
     "$vuetify": {
         "close": "Close",
