@@ -406,7 +406,8 @@
                 "population": "",
                 "legend": ""
             },
-            "colorMessage": ""
+            "colorMessage": "",
+            "showAdditionalData": ""
         },
         "tableData": {
             "timeFilter": "",
@@ -446,6 +447,12 @@
         },
         "pickColor": {
             "title": ""
+        },
+        "styling": {
+            "fillColor": "",
+            "StrokeColor": "",
+            "strokeWidth": "",
+            "strokeStyle": ""
         }
     },
     "indicators": {
@@ -947,7 +954,8 @@
         "discount_gym": "",
         "gym": "",
         "yoga": "",
-        "outdoor_fitness_station": ""
+        "outdoor_fitness_station": "",
+        "swimming_pool_outdoor": ""
     },
     "$vuetify": {
         "close": "",
