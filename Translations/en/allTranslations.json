@@ -384,7 +384,7 @@
             "car_park": "Car park"
         },
         "results": {
-            "title": "Not The Results",
+            "title": "Results",
             "multiIsochroneHeader": "Multi-Isochrone Calculation",
             "additionalLayers": "Additional Layers",
             "showDataTooltip": "Show Data",
@@ -1174,5 +1174,15 @@
         "sign & symbols": "Sign & Symbols",
         "sport": "Sport",
         "tourism & holidays": "Tourism & Holiday"
+    },
+    "appButtons": {
+        "mainNavigation": {
+            "exitApplication": "Exit Application Test"
+        }
+    },
+    "search": {
+        "layers": {
+            "searchForLayers": "Search nice layers test"
+        }
     }
 }
