@@ -453,6 +453,9 @@
             "StrokeColor": "Stroke",
             "strokeWidth": "Stroke Width",
             "strokeStyle": "Stroke Style"
+        },
+        "traveltimes": {
+            "minutes": "Minutes"
         }
     },
     "indicators": {

@@ -453,6 +453,9 @@
             "StrokeColor": "Formkontur",
             "strokeWidth": "Stärke",
             "strokeStyle": "Art"
+        },
+        "traveltimes": {
+            "minutes": "Minuten"
         }
     },
     "indicators": {
@@ -1174,5 +1177,15 @@
         "sign & symbols": "Zeichen & Symbole",
         "sport": "Sport",
         "tourism & holidays": "Tourismus & Urlaub"
+    },
+    "appButtons": {
+        "mainNavigation": {
+            "exitApplication": "Testing"
+        }
+    },
+    "search": {
+        "layers": {
+            "searchForLayers": "Testing"
+        }
     }
 }
