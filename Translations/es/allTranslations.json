@@ -476,7 +476,8 @@
             "gondola": "",
             "funicular": "",
             "trolleybus": "",
-            "monorail": ""
+            "monorail": "",
+            "high_speed_rail_service": ""
         },
         "class": "",
         "gutteklassenRating": {
