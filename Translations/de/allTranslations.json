@@ -476,7 +476,8 @@
             "gondola": "Gondelbahn",
             "funicular": "Standseilbahn",
             "trolleybus": "Straßenbahn",
-            "monorail": "Monorail"
+            "monorail": "Monorail",
+            "high_speed_rail_service": ""
         },
         "class": "Klasse",
         "gutteklassenRating": {
