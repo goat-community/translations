@@ -476,7 +476,8 @@
             "gondola": "Gondola",
             "funicular": "Funicular",
             "trolleybus": "Trolleybus",
-            "monorail": "Monorail"
+            "monorail": "Monorail",
+            "high_speed_rail_service": "High Speed Rail"
         },
         "class": "Class",
         "gutteklassenRating": {
