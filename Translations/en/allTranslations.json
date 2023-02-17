@@ -477,7 +477,9 @@
             "funicular": "Funicular",
             "trolleybus": "Trolleybus",
             "monorail": "Monorail",
-            "high_speed_rail_service": "High Speed Rail"
+            "high_speed_rail_service": "High Speed Rail",
+            "long_distance_trains": "Long Distance Trains",
+            "inter_regional_rail_service": "Inter Regional Rail"
         },
         "class": "Class",
         "gutteklassenRating": {
