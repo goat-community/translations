@@ -477,7 +477,9 @@
             "funicular": "Standseilbahn",
             "trolleybus": "Straßenbahn",
             "monorail": "Monorail",
-            "high_speed_rail_service": ""
+            "high_speed_rail_service": "",
+            "long_distance_trains": "",
+            "inter_regional_rail_service": ""
         },
         "class": "Klasse",
         "gutteklassenRating": {
