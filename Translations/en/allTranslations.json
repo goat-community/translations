@@ -733,7 +733,8 @@
             "measure": "Measure",
             "exitFullScreen": "Exit Fullscreen",
             "toggleStreetView": "Mapillary Imagery",
-            "notAvailable": "Not Available"
+            "notAvailable": "Not Available",
+            "clickToStartMeasurePolygon": ""
         },
         "popup": {
             "attributes": "Attributes",

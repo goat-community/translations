@@ -733,7 +733,8 @@
             "measure": "Messen",
             "exitFullScreen": "Vollbildmodus schließen",
             "toggleStreetView": "Mapillary",
-            "notAvailable": "Nicht verfügbar"
+            "notAvailable": "Nicht verfügbar",
+            "clickToStartMeasurePolygon": "Klicken, um Startpunkt für Flächenmessung festzulegen"
         },
         "popup": {
             "attributes": "Attribute",

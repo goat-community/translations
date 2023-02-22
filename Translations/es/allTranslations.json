@@ -733,7 +733,8 @@
             "measure": "",
             "exitFullScreen": "",
             "toggleStreetView": "",
-            "notAvailable": ""
+            "notAvailable": "",
+            "clickToStartMeasurePolygon": ""
         },
         "popup": {
             "attributes": "",
