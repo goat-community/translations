@@ -149,7 +149,7 @@
             "measure": {
                 "header": "Messen",
                 "length": "Länge",
-                "area": "Größe"
+                "area": "Fläche"
             },
             "draw": {
                 "header": "Zeichnen",
@@ -657,11 +657,11 @@
             "clickToStartMeasure": "Klicken, um Startpunkt für Längenmessung festzulegen",
             "clickToStartDrawing": "Klicken, um Zeichnen zu starten",
             "clickToContinueDrawing": "Klicken, um mit Zeichnen fortzufahren",
-            "clickToFinishDrawing": "Klicken, um Zeichnen zu beenden",
+            "clickToFinishDrawing": "Doppelklick oder Klick auf Startpunkt, um Vorgang zu Beenden",
             "clickToStartDrawingBoundary": "Klicken, um Begrenzungsrechteck zu zeichnen",
             "clickToStartDrawingCircle": "Klicken, um Kreis zu zeichnen (max. Radius 1000m)",
             "clickToStartDrawingPolygon": "Klicken, um Polygon zu zeichnen",
-            "clickToFinishDrawingPolygon": "Doppel(klick) auf Startpunkt, um Vorgang zu beenden",
+            "clickToFinishDrawingPolygon": "Doppelklick, um Vorgang zu Beenden",
             "clickOnFeatureToDelete": "Auf das Objekt klicken, um es zu löschen",
             "clickOnFeatureToMove": "Auf das Objekt klicken, um es zu bewegen",
             "drawHoleOnPolygon": "Zeichnen Sie über das Polygon, um ein Loch zu erstellen",
