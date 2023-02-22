@@ -654,7 +654,7 @@
             "clickForPPFCalculation": "Für PPF Berechnung klicken",
             "clickToSelectStudyArea": "Klicken für Auswahl des Untersuchungsbereichs",
             "maxCircleRadius": "Maximaler Kreisradius ist 1000m",
-            "clickToStartMeasure": "Klicken, um Messung zu starten",
+            "clickToStartMeasure": "Klicken, um Startpunkt für Längenmessung festzulegen",
             "clickToStartDrawing": "Klicken, um Zeichnen zu starten",
             "clickToContinueDrawing": "Klicken, um mit Zeichnen fortzufahren",
             "clickToFinishDrawing": "Klicken, um Zeichnen zu beenden",
