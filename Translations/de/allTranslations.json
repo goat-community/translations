@@ -656,7 +656,7 @@
             "maxCircleRadius": "Maximaler Kreisradius ist 1000m",
             "clickToStartMeasure": "Klicken, um Startpunkt für Längenmessung festzulegen",
             "clickToStartDrawing": "Klicken, um Zeichnen zu starten",
-            "clickToContinueDrawing": "Klicken, um mit Zeichnen fortzufahren",
+            "clickToContinueDrawing": "Doppelklick oder Klick auf Startpunkt, um Vorgang zu Beenden",
             "clickToFinishDrawing": "Doppelklick oder Klick auf Startpunkt, um Vorgang zu Beenden",
             "clickToStartDrawingBoundary": "Klicken, um Begrenzungsrechteck zu zeichnen",
             "clickToStartDrawingCircle": "Klicken, um Kreis zu zeichnen (max. Radius 1000m)",
