@@ -280,7 +280,8 @@
             "confirmDeleteScenario": "Wollen Sie das Scenario Daten löschen?",
             "cantCreateScenarioFeature": "Objekt kann nicht gespeichert werden",
             "canNotUpdateScenarioFeature": "Kann Objekt nicht aktualisieren",
-            "canNotDeleteScenarioFeature": "Objekt kann nicht gelöscht werden"
+            "canNotDeleteScenarioFeature": "Objekt kann nicht gelöscht werden",
+            "scenario_error": ""
         },
         "settings": {
             "title": "Einstellungen",
