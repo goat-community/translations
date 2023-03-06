@@ -280,7 +280,8 @@
             "confirmDeleteScenario": "Are you sure you want to delete scenario?",
             "cantCreateScenarioFeature": "Can't save feature",
             "canNotUpdateScenarioFeature": "Can't update feature",
-            "canNotDeleteScenarioFeature": "Can't delete feature"
+            "canNotDeleteScenarioFeature": "Can't delete feature",
+            "scenario_error": "This scenario is broken, please contact us to fix it."
         },
         "settings": {
             "title": "Settings",
