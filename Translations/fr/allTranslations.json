@@ -280,7 +280,8 @@
             "confirmDeleteScenario": "",
             "cantCreateScenarioFeature": "",
             "canNotUpdateScenarioFeature": "",
-            "canNotDeleteScenarioFeature": ""
+            "canNotDeleteScenarioFeature": "",
+            "scenario_error": ""
         },
         "settings": {
             "title": "",
