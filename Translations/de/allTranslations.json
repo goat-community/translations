@@ -963,7 +963,9 @@
         "gym": "Fitnessstudio",
         "yoga": "Yoga",
         "outdoor_fitness_station": "Outdoor Fitness",
-        "swimming_pool_outdoor": "Freibad"
+        "swimming_pool_outdoor": "Freibad",
+        "field": "Feld",
+        "sport_centre": "Sportzentrum"
     },
     "$vuetify": {
         "close": "Schließen",
@@ -1192,8 +1194,5 @@
         "layers": {
             "searchForLayers": "Testing"
         }
-    },
-    "aois": {
-        "field": "Feld"
     }
 }

@@ -963,7 +963,9 @@
         "gym": "",
         "yoga": "",
         "outdoor_fitness_station": "",
-        "swimming_pool_outdoor": ""
+        "swimming_pool_outdoor": "",
+        "field": "",
+        "sport_centre": ""
     },
     "$vuetify": {
         "close": "",
@@ -1192,8 +1194,5 @@
         "layers": {
             "searchForLayers": ""
         }
-    },
-    "aois": {
-        "field": ""
     }
 }
