@@ -1192,5 +1192,8 @@
         "layers": {
             "searchForLayers": "Testing"
         }
+    },
+    "aois": {
+        "field": "Feld"
     }
 }
