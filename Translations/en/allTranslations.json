@@ -1192,5 +1192,8 @@
         "layers": {
             "searchForLayers": "Search nice layers test"
         }
+    },
+    "aois": {
+        "field": "Field"
     }
 }
