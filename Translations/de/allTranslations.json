@@ -72,7 +72,7 @@
         "thursday": "Donnerstag",
         "friday": "Freitag",
         "saturday": "Samstag",
-        "sunday": "Sontag"
+        "sunday": "Sonntag"
     },
     "fromTime": "Von",
     "toTime": "Zum",
@@ -484,12 +484,12 @@
         },
         "class": "Klasse",
         "gutteklassenRating": {
-            "A": "High quality accessibility to Public transport",
-            "B": "Good quality accessibility to Public Transport",
-            "C": "Average quality accessibility to Public Transport",
-            "D": "Not so good accessibility to Public Transport",
-            "E": "Bad accessibility Public Transport",
-            "F": "Worst accessibility to Public Transport"
+            "A": "Höchstrangige ÖV-Erschließung",
+            "B": "Hochrangige ÖV-Erschließung",
+            "C": "Sehr gute ÖV-Erschließung",
+            "D": "Gute ÖV-Erschließung",
+            "E": "Gute ÖV-Basiserschließung",
+            "F": "ÖV-Basiserschließung"
         }
     },
     "poisFilter": {
@@ -1067,7 +1067,7 @@
         "thursday": "Donnerstag",
         "friday": "Freitag",
         "saturday": "Samstag",
-        "sunday": "Sontag",
+        "sunday": "Sonntag",
         "publicHolidays": "Gesetzlicher Feiertag"
     },
     "charts": {
