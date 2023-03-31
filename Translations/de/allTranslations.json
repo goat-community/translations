@@ -481,7 +481,7 @@
             "high_speed_rail_service": "Hochgeschwindigkeitszug",
             "long_distance_trains": "Fernverkehr",
             "inter_regional_rail_service": "Interregio",
-            "coach_service": ""
+            "coach_service": "Busreisedienst"
         },
         "class": "Klasse",
         "gutteklassenRating": {
