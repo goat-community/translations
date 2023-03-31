@@ -480,7 +480,8 @@
             "monorail": "Monorail",
             "high_speed_rail_service": "High Speed Rail",
             "long_distance_trains": "Long Distance Trains",
-            "inter_regional_rail_service": "Inter Regional Rail"
+            "inter_regional_rail_service": "Inter Regional Rail",
+            "coach_service": "Coach Service"
         },
         "class": "Class",
         "gutteklassenRating": {
