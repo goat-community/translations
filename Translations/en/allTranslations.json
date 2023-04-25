@@ -382,7 +382,9 @@
             "walk": "Walk",
             "bicycle": "Bicycle",
             "car": "Car",
-            "car_park": "Car park"
+            "car_park": "Car park",
+            "buffer": "Buffer",
+            "bufferDistance": "Buffer Distance"
         },
         "results": {
             "title": "Results",
