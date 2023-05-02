@@ -88,7 +88,7 @@
             "settings": "Sprache",
             "info": "GOAT Homepage besuchen",
             "about": "About",
-            "isochrones": "Isochronen",
+            "isochrones": "Einzugsbereiche",
             "heatmaps": "Heatmaps",
             "indicators": "Indikatoren",
             "staticLayers": "Weitere Layer",
@@ -319,9 +319,9 @@
         }
     },
     "isochrones": {
-        "title": "Isochronen",
+        "title": "Einzugsbereiche",
         "calculation": "Berechnung",
-        "calculationTitle": "Isochronenberechnung",
+        "calculationTitle": "Berechnung Einzugsbereiche",
         "stopIsochroneCalc": "Berechnung stoppen",
         "mode": {
             "default": "Standard",
