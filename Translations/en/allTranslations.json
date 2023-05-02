@@ -88,7 +88,7 @@
             "settings": "Language",
             "info": "Visit GOAT Homepage",
             "about": "About",
-            "isochrones": "Isochrones",
+            "isochrones": "Catchments",
             "heatmaps": "Heatmaps",
             "indicators": "Indicators",
             "staticLayers": "Other Layers",
@@ -319,9 +319,9 @@
         }
     },
     "isochrones": {
-        "title": "Isochrones",
+        "title": "Catchments",
         "calculation": "Calculation",
-        "calculationTitle": "Isochrone Calculation",
+        "calculationTitle": "Catchment Calculation",
         "stopIsochroneCalc": "Stop Calculation",
         "mode": {
             "default": "Default",
@@ -382,9 +382,7 @@
             "walk": "Walk",
             "bicycle": "Bicycle",
             "car": "Car",
-            "car_park": "Car park",
-            "buffer": "Buffer",
-            "bufferDistance": "Buffer Distance"
+            "car_park": "Car park"
         },
         "results": {
             "title": "Results",
