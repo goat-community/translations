@@ -736,7 +736,9 @@
             "exitFullScreen": "",
             "toggleStreetView": "",
             "notAvailable": "",
-            "clickToStartMeasurePolygon": ""
+            "clickToStartMeasurePolygon": "",
+            "zoom_in": "",
+            "zoom_out": ""
         },
         "popup": {
             "attributes": "",
