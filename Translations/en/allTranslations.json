@@ -736,7 +736,9 @@
             "exitFullScreen": "Exit Fullscreen",
             "toggleStreetView": "Mapillary Imagery",
             "notAvailable": "Not Available",
-            "clickToStartMeasurePolygon": "Click to start measuring area. Press ESC to exit"
+            "clickToStartMeasurePolygon": "Click to start measuring area. Press ESC to exit",
+            "zoom_in": "Zoom In",
+            "zoom_out": "Zoom Out"
         },
         "popup": {
             "attributes": "Attributes",
