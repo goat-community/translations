@@ -736,7 +736,9 @@
             "exitFullScreen": "Vollbildmodus schließen",
             "toggleStreetView": "Mapillary",
             "notAvailable": "Nicht verfügbar",
-            "clickToStartMeasurePolygon": "Klicken, um Startpunkt für Flächenmessung festzulegen"
+            "clickToStartMeasurePolygon": "Klicken, um Startpunkt für Flächenmessung festzulegen",
+            "zoom_in": "Hineinzoomen",
+            "zoom_out": "Rauszoomen"
         },
         "popup": {
             "attributes": "Attribute",
