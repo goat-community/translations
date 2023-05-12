@@ -329,7 +329,7 @@
             "scenario": "Scenario"
         },
         "single": {
-            "singleIsochrone": "Isochrone Single",
+            "singleIsochrone": "Starting point",
             "title": "Starting Point",
             "type": "Single",
             "searchBox": "Search Starting Point",
