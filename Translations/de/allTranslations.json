@@ -649,7 +649,8 @@
             "heatmap_population": "Bevölkerungsdichte",
             "pt_station_count": "Durchschnittliche Anzahl Abfahrten Öffentlicher Verkehr (pro Stunde)",
             "pt_oev_gueteklasse": "ÖV Güteklassen",
-            "public_transport": "Öffentlicher Verkehr"
+            "public_transport": "Öffentlicher Verkehr",
+            "london_boroughs": "London Boroughs"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
