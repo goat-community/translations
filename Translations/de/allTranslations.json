@@ -354,7 +354,7 @@
         "options": {
             "title": "Optionen",
             "subOptions": "Einstellungen Isochronen",
-            "speed": "Geschwindigkeitsbegrenzungen",
+            "speed": "Geschwindigkeit",
             "time": "Reisezeit",
             "nr": "Isochronen",
             "from_time": "Von Zeit",
