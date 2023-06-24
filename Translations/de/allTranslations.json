@@ -346,7 +346,7 @@
             "calculate": "Berechnen",
             "studyAreaInfoLabel": "Wählen Sie <b> Orte </b> auf der Karte aus und <b> Ziele </b> im Filter Thematische Daten aus, um die Berechnung zu ermöglichen.",
             "drawPolygon": "Grenze zeichnen",
-            "amenityCount": "Amenity Count",
+            "amenityCount": "Anzahl POIs",
             "limit": "Grenze",
             "drawPolygonInfoLabel": "Zeichnen Sie eine <b> Grenze</b> auf der Karte ein und wählen Sie <b> Ziele </b> im Filter Thematische Daten aus aus, um die Berechnung zu ermöglichen.",
             "tableDataTitle": "Daten Multi-Isochrone"
@@ -426,9 +426,9 @@
             },
             "travelTime": "Reisezeit (minuten)",
             "travelTimeSlider": "Reisezeit (minuten)",
-            "amenityCount": "Amenity Count",
+            "amenityCount": "Anzahl POIs",
             "populationCount": "Bevölkerungszahl",
-            "aoisArea": "AOIs Area"
+            "aoisArea": "Fläche AOIs"
         },
         "isochrones": "Isochronen",
         "deleteTitle": "Delete",
