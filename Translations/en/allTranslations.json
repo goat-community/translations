@@ -650,7 +650,9 @@
             "pt_station_count": "Average count of departures public transport (per hour)",
             "pt_oev_gueteklasse": "ÖV Güteklassen (Public transport benchmark)",
             "public_transport": "Public Transport",
-            "london_boroughs": "London Boroughs"
+            "london_boroughs": "London Boroughs",
+            "landkreise": "Counties",
+            "kommunen": "Municipalities"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
@@ -969,7 +971,8 @@
         "outdoor_fitness_station": "Outdoor fitness station",
         "swimming_pool_outdoor": "Swimming Pool Outdoor",
         "field": "Field",
-        "sport_centre": "Sport Centre"
+        "sport_centre": "Sport Centre",
+        "childcare": "Childcare"
     },
     "$vuetify": {
         "close": "Close",
