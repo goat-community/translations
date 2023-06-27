@@ -650,7 +650,9 @@
             "pt_station_count": "Durchschnittliche Anzahl Abfahrten Öffentlicher Verkehr (pro Stunde)",
             "pt_oev_gueteklasse": "ÖV Güteklassen",
             "public_transport": "Öffentlicher Verkehr",
-            "london_boroughs": "London Boroughs"
+            "london_boroughs": "London Boroughs",
+            "landkreise": "Landkreise",
+            "kommunen": "Kommunen"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
@@ -969,7 +971,8 @@
         "outdoor_fitness_station": "Outdoor Fitness",
         "swimming_pool_outdoor": "Freibad",
         "field": "Feld",
-        "sport_centre": "Sportzentrum"
+        "sport_centre": "Sportzentrum",
+        "childcare": "Kindertagesstätten"
     },
     "$vuetify": {
         "close": "Schließen",
