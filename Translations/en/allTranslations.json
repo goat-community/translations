@@ -456,7 +456,8 @@
             "strokeStyle": "Stroke Style"
         },
         "traveltimes": {
-            "minutes": "Minutes"
+            "minutes": "Minutes",
+            "meters": "Meters"
         }
     },
     "indicators": {
