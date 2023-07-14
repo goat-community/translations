@@ -456,7 +456,8 @@
             "strokeStyle": "Art"
         },
         "traveltimes": {
-            "minutes": "Minuten"
+            "minutes": "Minuten",
+            "meters": "Meter"
         }
     },
     "indicators": {
