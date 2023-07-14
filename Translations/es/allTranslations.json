@@ -456,7 +456,8 @@
             "strokeStyle": ""
         },
         "traveltimes": {
-            "minutes": ""
+            "minutes": "",
+            "meters": ""
         }
     },
     "indicators": {
@@ -649,7 +650,10 @@
             "heatmap_population": "",
             "pt_station_count": "",
             "pt_oev_gueteklasse": "",
-            "public_transport": ""
+            "public_transport": "",
+            "london_boroughs": "",
+            "landkreise": "",
+            "kommunen": ""
         },
         "tooltips": {
             "clickForIsochroneCalculation": "",
@@ -968,7 +972,8 @@
         "outdoor_fitness_station": "",
         "swimming_pool_outdoor": "",
         "field": "",
-        "sport_centre": ""
+        "sport_centre": "",
+        "childcare": ""
     },
     "$vuetify": {
         "close": "",
