@@ -559,7 +559,8 @@
             "external_layers": "External layers",
             "accessbilityBasemaps": "Heatmaps",
             "basemap": "Background layers",
-            "heatmap": "Heatmaps"
+            "heatmap": "Heatmaps",
+            "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche"
         },
         "layerName": {
             "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
