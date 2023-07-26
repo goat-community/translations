@@ -557,8 +557,7 @@
             "external_layers": "Externe Layer",
             "accessbilityBasemaps": "Heatmaps",
             "basemap": "Hintergrundkarten",
-            "heatmap": "Heatmaps",
-            "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche"
+            "heatmap": "Heatmaps"
         },
         "layerName": {
             "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
@@ -654,7 +653,8 @@
             "public_transport": "Öffentlicher Verkehr",
             "london_boroughs": "London Boroughs",
             "landkreise": "Landkreise",
-            "kommunen": "Kommunen"
+            "kommunen": "Kommunen",
+            "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
