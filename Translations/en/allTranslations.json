@@ -383,6 +383,8 @@
             "bicycle": "Bicycle",
             "car": "Car - Weekday",
             "car_park": "Car park"
+            "buffer": "Buffer",
+            "bufferDistance": "Buffer Distance
         },
         "results": {
             "title": "Results",
