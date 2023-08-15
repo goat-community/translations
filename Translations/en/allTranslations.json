@@ -381,10 +381,10 @@
             "transit": "Transit",
             "walk": "Walk",
             "bicycle": "Bicycle",
-            "car": "Car",
-            "car_park": "Car park",
+            "car": "Car - Weekday",
+            "car_park": "Car park"
             "buffer": "Buffer",
-            "bufferDistance": "Buffer Distance"
+            "bufferDistance": "Buffer Distance
         },
         "results": {
             "title": "Results",
