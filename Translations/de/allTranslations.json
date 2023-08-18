@@ -381,7 +381,7 @@
             "transit": "ÖPNV",
             "walk": "Fuß",
             "bicycle": "Fahrrad",
-            "car": "Auto - Werktag",
+            "car": "Auto - Beta",
             "car_park": "Parkplatz"
         },
         "results": {
