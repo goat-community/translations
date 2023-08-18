@@ -383,7 +383,8 @@
             "bicycle": "Fahrrad",
             "car": "Auto - Beta",
             "car_park": "Parkplatz",
-            "bufferDistance": "Buffergröße"
+            "bufferDistance": "Buffergröße",
+            "buffer": "Buffer"
         },
         "results": {
             "title": "Ergebnisse",
@@ -1203,11 +1204,6 @@
     "search": {
         "layers": {
             "searchForLayers": "Testing"
-        }
-    },
-    " \"isochrones": {
-        "options": {
-            "buffer": "Buffer"
         }
     }
 }

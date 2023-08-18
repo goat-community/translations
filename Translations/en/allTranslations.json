@@ -383,7 +383,8 @@
             "bicycle": "Bicycle",
             "car": "Car - Beta",
             "car_park": "Car park",
-            "bufferDistance": "Buffer Distance"
+            "bufferDistance": "Buffer Distance",
+            "buffer": "Buffer"
         },
         "results": {
             "title": "Results",
@@ -1203,11 +1204,6 @@
     "search": {
         "layers": {
             "searchForLayers": "Search nice layers test"
-        }
-    },
-    " \"isochrones": {
-        "options": {
-            "buffer": "Buffer"
         }
     }
 }
