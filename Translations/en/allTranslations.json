@@ -976,7 +976,8 @@
         "swimming_pool_outdoor": "Swimming Pool Outdoor",
         "field": "Field",
         "sport_centre": "Sport Centre",
-        "childcare": "Childcare"
+        "childcare": "Childcare",
+        "bicycle_parking": "Bicycle Parking"
     },
     "$vuetify": {
         "close": "Close",
