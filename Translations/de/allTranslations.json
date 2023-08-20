@@ -976,7 +976,8 @@
         "swimming_pool_outdoor": "Freibad",
         "field": "Feld",
         "sport_centre": "Sportzentrum",
-        "childcare": "Kindertagesstätten"
+        "childcare": "Kindertagesstätten",
+        "bicycle_parking": "Fahrradabstellanlage"
     },
     "$vuetify": {
         "close": "Schließen",
