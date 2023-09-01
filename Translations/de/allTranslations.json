@@ -656,7 +656,8 @@
             "london_boroughs": "London Boroughs",
             "landkreise": "Landkreise",
             "kommunen": "Kommunen",
-            "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche"
+            "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche",
+            "tages_oberflaechentemperatur": "Tages-Oberflächentemperatur"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
