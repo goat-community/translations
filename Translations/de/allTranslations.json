@@ -657,7 +657,19 @@
             "landkreise": "Landkreise",
             "kommunen": "Kommunen",
             "zentrale_versorgungsbereiche_freiburg": "Zentrale Versorgungsbereiche",
-            "tages_oberflaechentemperatur": "Tages-Oberflächentemperatur"
+            "tages_oberflaechentemperatur": "Tages-Oberflächentemperatur",
+            "bp_2017_line": "BP 2017 Line",
+            "bp_2017_point": "BP 2017 Point",
+            "esiti_labq_line": "Esiti Labq Line",
+            "esiti_labq_point": "Esiti Labq Point",
+            "esiti_labq_polygon": "Esiti Labq Polygon",
+            "interventi_immateriali_point": "Interventi Immateriali Point",
+            "interventi_immateriali_polygon": "Interventi Immateriali Polygon",
+            "progetti_comunali_line": "Progetti Comunali Line",
+            "progetti_comunali_point": "Progetti Comunali Point",
+            "progetti_comunali_polygon": "Progetti Comunali Polygon",
+            "zone_30": "Zone 30",
+            "zoni_di_prossimita": "Zoni Di Prossimita"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
