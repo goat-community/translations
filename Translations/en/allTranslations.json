@@ -685,7 +685,8 @@
             "tsg_all": "TSG Hoffenheim - All modes",
             "tsg_fahrrad_fuss": "TSG Hoffenheim - Foot/Bike",
             "tsg_oev": "TSG Hoffenheim - PT",
-            "tsg_pkw": "TSG Hoffenheim - Car"
+            "tsg_pkw": "TSG Hoffenheim - Car",
+            "badewelt_all": "Badewelt - alle Modi"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
