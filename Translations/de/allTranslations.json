@@ -670,7 +670,22 @@
             "progetti_comunali_polygon": "Progetti Comunali Polygon",
             "zone_30": "Zone 30",
             "zoni_di_prossimita": "Zoni Di Prossimita",
-            "france": "Frankreich"
+            "france": "Frankreich",
+            "badewelt_epkw": "Badewelt - EPkw",
+            "badewelt_fahrrad": "Badewelt - Fahrrad",
+            "badewelt_missing": "Badewelt - Unbekannt",
+            "badewelt_oev": "Badewelt - ÖV",
+            "badewelt_pkw": "Badewelt - Pkw",
+            "badewelt_reisebus": "Badewelt - Reisebus",
+            "talhaus": "Talhaus - alle Modi",
+            "technikmuseum_all": "Technikmuseum - alle Modi",
+            "technikmuseum_fahrrad_fuss": "Technikmuseum - Fuß/Fahrrad",
+            "technikmuseum_oev": "Technikmuseum - ÖV",
+            "technikmuseum_pkw": "Technikmuseum - Pkw",
+            "tsg_all": "TSG Hoffenheim - alle Modi",
+            "tsg_fahrrad_fuss": "TSG Hoffenheim - Fuß/Fahrrad",
+            "tsg_oev": "TSG Hoffenheim - ÖV",
+            "tsg_pkw": "TSG Hoffenheim - Pkw"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
@@ -1219,6 +1234,11 @@
     "search": {
         "layers": {
             "searchForLayers": "Testing"
+        }
+    },
+    " \"map": {
+        "layerName": {
+            "badewelt_all": "Badewelt - alle Modi"
         }
     }
 }
