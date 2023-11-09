@@ -669,7 +669,8 @@
             "progetti_comunali_point": "Progetti Comunali Point",
             "progetti_comunali_polygon": "Progetti Comunali Polygon",
             "zone_30": "Zone 30",
-            "zoni_di_prossimita": "Zoni Di Prossimita"
+            "zoni_di_prossimita": "Zoni Di Prossimita",
+            "france": "France"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
