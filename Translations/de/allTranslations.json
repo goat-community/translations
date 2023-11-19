@@ -559,8 +559,7 @@
             "external_layers": "Externe Layer",
             "accessbilityBasemaps": "Heatmaps",
             "basemap": "Hintergrundkarten",
-            "heatmap": "Heatmaps",
-            "klimaarena_epkw": "KlimaArena - EPkw"
+            "heatmap": "Heatmaps"
         },
         "layerName": {
             "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
@@ -683,13 +682,16 @@
             "tsg_fahrrad_fuss": "TSG Hoffenheim - Fuß/Fahrrad",
             "tsg_oev": "TSG Hoffenheim - ÖV",
             "tsg_pkw": "TSG Hoffenheim - Pkw",
-            "badewelt_fahrrad_fuss": "Badewelt Fuß/Fahrrad",
+            "badewelt_fahrrad_fuss": "Badewelt - Fuß/Fahrrad",
             "klimaarena_reisebus": "KlimaArena - Reisebus",
             "klimaarena_fahrrad": "KlimaArena - Fahrrad",
             "klimaarena_missing": "KlimaArena - keine Angabe",
             "klimaarena_oev": "KlimaArena - ÖV",
             "klimaarena_pkw": "KlimaArena - Pkw",
-            "cluster_sinsheim": "Cluster Sinsheim - alle Modi"
+            "cluster_sinsheim": "Cluster Sinsheim - alle Modi",
+            "badewelt_all1": "Badewelt - alle Modi",
+            "klimaarena_all": "KlimaArena - alle Modi",
+            "klimaarena_epkw": "KlimaArena - EPkw"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Für Berechnung klicken",
@@ -1238,11 +1240,6 @@
     "search": {
         "layers": {
             "searchForLayers": "Testing"
-        }
-    },
-    " \"map": {
-        "layerName": {
-            "badewelt_all1": "Badewelt - alle Modi"
         }
     }
 }
