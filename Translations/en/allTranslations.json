@@ -559,8 +559,7 @@
             "external_layers": "External layers",
             "accessbilityBasemaps": "Heatmaps",
             "basemap": "Background layers",
-            "heatmap": "Heatmaps",
-            "klimaarena_epkw": "KlimaArena - EPkw"
+            "heatmap": "Heatmaps"
         },
         "layerName": {
             "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
@@ -689,7 +688,10 @@
             "klimaarena_missing": "KlimaArena - keine Angabe",
             "klimaarena_oev": "KlimaArena - ÖV",
             "klimaarena_pkw": "KlimaArena - Pkw",
-            "cluster_sinsheim": "Cluster Sinsheim - alle Modi"
+            "cluster_sinsheim": "Cluster Sinsheim - alle Modi",
+            "badewelt_all1": "Badewelt - alle Modi",
+            "klimaarena_all": "KlimaArena - alle Modi",
+            "klimaarena_epkw": "Klimaarena - ECar"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
@@ -1238,11 +1240,6 @@
     "search": {
         "layers": {
             "searchForLayers": "Search nice layers test"
-        }
-    },
-    " \"map": {
-        "layerName": {
-            "badewelt_all1": "Badewelt - All modes"
         }
     }
 }
