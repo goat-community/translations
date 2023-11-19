@@ -559,7 +559,8 @@
             "external_layers": "External layers",
             "accessbilityBasemaps": "Heatmaps",
             "basemap": "Background layers",
-            "heatmap": "Heatmaps"
+            "heatmap": "Heatmaps",
+            "klimaarena_epkw": "KlimaArena - EPkw"
         },
         "layerName": {
             "freiburg_bodenrichtwert": "Freiburg Bodenrichtwerte",
@@ -671,12 +672,8 @@
             "zone_30": "Zone 30",
             "zoni_di_prossimita": "Zoni Di Prossimita",
             "france": "France",
-            "badewelt_epkw": "Badewelt - E-car",
-            "badewelt_fahrrad": "Badewelt - Bike",
-            "badewelt_missing": "Badewelt - Unknown",
-            "badewelt_oev": "Badewelt - PT",
-            "badewelt_pkw": "Badewelt - Car",
-            "badewelt_reisebus": "Badewelt - Coach",
+            "badewelt_oev1": "Badewelt - PT",
+            "badewelt_pkw1": "Badewelt - Car",
             "talhaus": "Talhaus - All modes",
             "technikmuseum_all": "Technikmuseum - All modes",
             "technikmuseum_fahrrad_fuss": "Technikmuseum - Foot/Bike",
@@ -686,7 +683,13 @@
             "tsg_fahrrad_fuss": "TSG Hoffenheim - Foot/Bike",
             "tsg_oev": "TSG Hoffenheim - PT",
             "tsg_pkw": "TSG Hoffenheim - Car",
-            "badewelt_all": "Badewelt - alle Modi"
+            "badewelt_fahrrad_fuss": "Badewelt Fuß/Fahrrad",
+            "klimaarena_reisebus": "KlimaArena - Reisebus",
+            "klimaarena_fahrrad": "KlimaArena - Fahrrad",
+            "klimaarena_missing": "KlimaArena - keine Angabe",
+            "klimaarena_oev": "KlimaArena - ÖV",
+            "klimaarena_pkw": "KlimaArena - Pkw",
+            "cluster_sinsheim": "Cluster Sinsheim - alle Modi"
         },
         "tooltips": {
             "clickForIsochroneCalculation": "Click for isochrone calculation. Press ESC to exit",
@@ -1239,7 +1242,7 @@
     },
     " \"map": {
         "layerName": {
-            "badewelt_all": "Badewelt - All modes"
+            "badewelt_all1": "Badewelt - All modes"
         }
     }
 }
